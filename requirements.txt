@@ -1,0 +1,17 @@
+# Core Data Science and Numerical Computing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Visualization and Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Model Serialization and Utility
+joblib>=1.3.0
+
+# Interactive Web Application
+streamlit>=1.30.0
+
+# Optional Machine Learning Compatibility
+scikit-learn>=1.3.0

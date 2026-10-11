@@ -1,0 +1,42 @@
+{
+    "Test_1_Test_Drive_vs_Conversion": {
+        "test_type": "Chi-Square Test of Independence",
+        "null_hypothesis": "H0: Taking a test drive has no association with customer lead conversion.",
+        "alternative_hypothesis": "H1: Taking a test drive is significantly associated with customer lead conversion.",
+        "chi2_statistic": 314.7173,
+        "p_value": 2.049346717204371e-70,
+        "significance_level": 0.05,
+        "decision": "Reject Null Hypothesis (Statistically Significant)",
+        "business_interpretation": "Test drive completion has a statistically decisive relationship with conversion. Prospects taking test drives convert at more than 3x the baseline rate."
+    },
+    "Test_2_Marketing_Channel_vs_Lead_Status": {
+        "test_type": "Chi-Square Test of Independence",
+        "null_hypothesis": "H0: Lead status distribution is independent of marketing channel touchpoints.",
+        "alternative_hypothesis": "H1: Lead status distribution is significantly dependent on marketing channel touchpoints.",
+        "chi2_statistic": 69.7793,
+        "p_value": 4.8900959053543925e-09,
+        "significance_level": 0.05,
+        "decision": "Reject Null Hypothesis (Statistically Significant)",
+        "business_interpretation": "High-intent inbound channels (Dealership Visits and Google Search) generate significantly higher proportion of conversions than passive broadcast channels."
+    },
+    "Test_3_Website_Visits_T_Test": {
+        "test_type": "Two-Sample Independent T-Test (Welch's T-Test)",
+        "null_hypothesis": "H0: Mean website visits do not differ between converted and non-converted leads.",
+        "alternative_hypothesis": "H1: Mean website visits are significantly higher for converted leads.",
+        "t_statistic": 8.0167,
+        "p_value": 3.4269874975013057e-15,
+        "mean_converted_visits": 7.83,
+        "mean_non_converted_visits": 6.01,
+        "decision": "Reject Null Hypothesis (p < 0.001)",
+        "business_interpretation": "Converted leads averaged 7.8 website visits compared to 6.0 for non-converted leads. Website exploration strongly signifies purchase intent."
+    },
+    "Test_4_EV_Model_Sales_ANOVA": {
+        "test_type": "One-Way Analysis of Variance (ANOVA)",
+        "null_hypothesis": "H0: Mean realized sales revenue does not differ across Tata EV models.",
+        "alternative_hypothesis": "H1: Mean realized sales revenue differs significantly across Tata EV models.",
+        "f_statistic": 792.3623,
+        "p_value": 5.314386957969344e-215,
+        "decision": "Reject Null Hypothesis (p < 0.001)",
+        "business_interpretation": "Revenue realizations differ significantly across product segments, from entry-level Tiago EV to flagship Harrier EV."
+    }
+}

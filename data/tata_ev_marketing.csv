@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,City,EV_Model,Purchase_Price,Purchase_Date,Marketing_Channel,Ad_Exposure,Campaign_Type,Website_Visits,Test_Drive,Customer_Interest,Lead_Status,Sales_Amount
+TATACUST1001,41,Male,Delhi,Nexon EV,1520000,2024-04-23,TV Commercial,6,Green Mobility Drive,18,Yes,High,Converted,1554412.3
+TATACUST1002,35,Male,Mumbai,Tiago EV,850000,2024-03-20,Google Search,7,Green Mobility Drive,5,Yes,Medium,Converted,867457.84
+TATACUST1003,43,Female,Mumbai,Punch EV,1295000,2023-10-23,Social Media,8,Festive Offer,5,No,Low,Lost,0.0
+TATACUST1004,51,Female,Delhi,Nexon EV,1745000,2024-11-08,Dealership Visit,17,Festive Offer,5,Yes,High,Converted,1768275.38
+TATACUST1005,34,Male,Chennai,Punch EV,1135000,2023-06-20,Social Media,5,Referral Program,4,No,Low,Lost,0.0
+TATACUST1006,34,Female,Pune,Harrier EV,2530000,2024-07-28,Social Media,13,Festive Offer,11,No,Medium,Lost,0.0
+TATACUST1007,52,Male,Pune,Tigor EV,1345000,2023-05-27,TV Commercial,4,New Launch Blitz,4,No,Low,Lost,0.0
+TATACUST1008,44,Male,Delhi,Punch EV,1365000,2024-04-28,Google Search,15,Festive Offer,4,No,Medium,New,0.0
+TATACUST1009,32,Female,Jaipur,Punch EV,1470000,2023-11-02,Email Campaign,11,Referral Program,6,No,Medium,New,0.0
+TATACUST1010,42,Female,Bengaluru,Punch EV,1135000,2024-11-03,Print Media,6,New Launch Blitz,7,No,Low,New,0.0
+TATACUST1011,32,Female,Mumbai,Punch EV,1315000,2024-10-14,Dealership Visit,9,New Launch Blitz,2,Yes,Medium,Converted,1325928.44
+TATACUST1012,32,Female,Pune,Tiago EV,1020000,2024-08-31,Dealership Visit,4,Referral Program,9,Yes,Medium,Converted,1057414.93
+TATACUST1013,39,Male,Mumbai,Punch EV,1470000,2024-03-21,TV Commercial,18,Festive Offer,4,No,Medium,New,0.0
+TATACUST1014,21,Female,Delhi,Punch EV,1450000,2023-08-09,Social Media,5,Green Mobility Drive,3,No,Low,Contacted,0.0
+TATACUST1015,21,Male,Bengaluru,Nexon EV,1590000,2024-07-08,Dealership Visit,7,Green Mobility Drive,12,Yes,High,Converted,1627920.23
+TATACUST1016,31,Female,Ahmedabad,Nexon EV,1920000,2024-01-13,Social Media,9,Festive Offer,4,Yes,Medium,Converted,1970567.53
+TATACUST1017,27,Male,Bengaluru,Nexon EV,1510000,2024-09-11,Google Search,13,Festive Offer,5,Yes,High,Converted,1557476.46
+TATACUST1018,39,Female,Hyderabad,Tiago EV,1105000,2023-09-23,Dealership Visit,4,Referral Program,12,No,Medium,New,0.0
+TATACUST1019,28,Male,Kochi,Tiago EV,1140000,2023-04-05,TV Commercial,8,Exchange Bonus,10,No,Medium,Lost,0.0
+TATACUST1020,23,Female,Mumbai,Nexon EV,1540000,2023-09-19,Print Media,8,Exchange Bonus,4,No,Low,New,0.0
+TATACUST1021,50,Male,Delhi,Punch EV,1425000,2023-03-12,Social Media,6,New Launch Blitz,8,Yes,Medium,Converted,1444232.41
+TATACUST1022,34,Female,Bengaluru,Tiago EV,815000,2023-08-07,TV Commercial,10,Exchange Bonus,15,No,High,Converted,850894.08
+TATACUST1023,37,Male,Bengaluru,Nexon EV,1650000,2024-06-16,Social Media,6,Exchange Bonus,8,No,Medium,Converted,1665659.96
+TATACUST1024,23,Male,Bengaluru,Nexon EV,1705000,2023-04-02,TV Commercial,4,Referral Program,5,No,Low,Contacted,0.0
+TATACUST1025,31,Male,Kolkata,Tigor EV,1320000,2023-05-07,Dealership Visit,14,Festive Offer,2,Yes,Medium,Converted,1326239.2
+TATACUST1026,38,Male,Hyderabad,Tiago EV,1125000,2023-03-21,TV Commercial,3,Green Mobility Drive,8,Yes,Medium,Converted,1126693.46
+TATACUST1027,26,Female,Pune,Nexon EV,1785000,2023-08-26,Social Media,10,New Launch Blitz,8,Yes,High,Converted,1818059.74
+TATACUST1028,40,Male,Delhi,Nexon EV,1690000,2024-01-07,Social Media,6,New Launch Blitz,4,No,Low,Contacted,0.0
+TATACUST1029,31,Other,Chennai,Nexon EV,1855000,2024-04-30,Social Media,4,New Launch Blitz,4,Yes,Medium,Converted,1881678.32
+TATACUST1030,34,Male,Jaipur,Nexon EV,1925000,2024-11-24,TV Commercial,6,Green Mobility Drive,6,Yes,Medium,Converted,1933794.86
+TATACUST1031,31,Male,Chennai,Nexon EV,1460000,2023-01-25,Email Campaign,9,Referral Program,10,No,Medium,New,0.0
+TATACUST1032,54,Female,Mumbai,Tigor EV,1375000,2023-06-05,Social Media,9,Festive Offer,6,No,Medium,Contacted,0.0
+TATACUST1033,36,Female,Hyderabad,Tiago EV,830000,2024-05-31,Dealership Visit,3,Festive Offer,4,Yes,Medium,Converted,843564.33
+TATACUST1034,26,Male,Mumbai,Nexon EV,1855000,2024-09-23,Print Media,5,Green Mobility Drive,9,No,Medium,Contacted,0.0
+TATACUST1035,44,Male,Delhi,Nexon EV,1590000,2024-06-13,TV Commercial,16,Green Mobility Drive,4,No,Medium,Contacted,0.0
+TATACUST1036,25,Female,Mumbai,Nexon EV,1515000,2024-12-10,TV Commercial,3,Festive Offer,5,No,Low,Lost,0.0
+TATACUST1037,38,Male,Pune,Tiago EV,955000,2023-02-26,Dealership Visit,16,Green Mobility Drive,3,No,Medium,Lost,0.0
+TATACUST1038,21,Other,Hyderabad,Tiago EV,1025000,2024-08-27,Social Media,4,Festive Offer,4,No,Low,Lost,0.0
+TATACUST1039,24,Other,Mumbai,Curvv EV,1920000,2023-01-19,Google Search,12,Green Mobility Drive,20,Yes,High,Converted,1947675.74
+TATACUST1040,38,Female,Bengaluru,Nexon EV,1475000,2024-01-19,Social Media,4,Referral Program,7,No,Low,New,0.0
+TATACUST1041,44,Male,Bengaluru,Curvv EV,2020000,2023-07-12,Email Campaign,14,Exchange Bonus,4,No,Medium,Contacted,0.0
+TATACUST1042,38,Female,Bengaluru,Nexon EV,1900000,2023-08-25,Print Media,10,Festive Offer,3,No,Low,Lost,0.0
+TATACUST1043,35,Male,Mumbai,Nexon EV,1640000,2024-01-22,Dealership Visit,8,Green Mobility Drive,7,Yes,Medium,Converted,1644087.98
+TATACUST1044,34,Male,Bengaluru,Nexon EV,1555000,2024-03-01,Social Media,2,Exchange Bonus,3,No,Low,Lost,0.0
+TATACUST1045,22,Male,Chennai,Curvv EV,1950000,2023-10-04,Google Search,12,Green Mobility Drive,5,No,Medium,Contacted,0.0
+TATACUST1046,30,Male,Mumbai,Tigor EV,1255000,2023-08-15,Social Media,10,Green Mobility Drive,6,Yes,Medium,Lost,0.0
+TATACUST1047,32,Female,Mumbai,Nexon EV,1860000,2024-07-05,Social Media,5,Exchange Bonus,16,Yes,High,Converted,1892971.58
+TATACUST1048,47,Female,Bengaluru,Tiago EV,1090000,2023-11-19,TV Commercial,5,New Launch Blitz,12,No,Medium,Contacted,0.0
+TATACUST1049,40,Female,Jaipur,Punch EV,1365000,2023-06-02,Email Campaign,15,Festive Offer,7,Yes,High,Converted,1393231.3
+TATACUST1050,21,Male,Hyderabad,Nexon EV,1625000,2024-09-30,Print Media,3,Green Mobility Drive,2,No,Low,Lost,0.0
+TATACUST1051,40,Male,Hyderabad,Punch EV,1460000,2023-08-25,Dealership Visit,9,Green Mobility Drive,7,Yes,High,Converted,1501973.1
+TATACUST1052,33,Male,Bengaluru,Tiago EV,995000,2023-02-24,Social Media,8,Exchange Bonus,7,No,Medium,Contacted,0.0
+TATACUST1053,30,Other,Pune,Punch EV,1470000,2024-03-11,Social Media,16,Festive Offer,12,No,High,Converted,1511617.5
+TATACUST1054,42,Male,Mumbai,Punch EV,1385000,2024-11-14,Google Search,19,Festive Offer,8,Yes,High,Converted,1415389.4
+TATACUST1055,46,Female,Hyderabad,Tiago EV,1075000,2023-04-19,Dealership Visit,25,Festive Offer,7,Yes,High,Converted,1118054.17
+TATACUST1056,45,Male,Kolkata,Punch EV,1370000,2023-07-03,Dealership Visit,3,New Launch Blitz,9,Yes,Medium,Converted,1367801.96
+TATACUST1057,29,Male,Pune,Curvv EV,1935000,2024-01-03,Google Search,15,Referral Program,3,Yes,Medium,Converted,1959475.85
+TATACUST1058,34,Female,Ahmedabad,Tigor EV,1370000,2023-07-17,Google Search,6,Exchange Bonus,4,No,Low,Contacted,0.0
+TATACUST1059,40,Male,Hyderabad,Tiago EV,990000,2024-01-06,Social Media,7,Referral Program,5,No,Low,Contacted,0.0
+TATACUST1060,46,Female,Mumbai,Tiago EV,1010000,2024-01-08,Google Search,6,Festive Offer,12,Yes,High,Converted,1044751.8
+TATACUST1061,32,Female,Kolkata,Nexon EV,1560000,2024-05-11,Google Search,5,Referral Program,13,Yes,High,Converted,1571605.96
+TATACUST1062,35,Male,Mumbai,Punch EV,1380000,2024-08-21,Social Media,20,Exchange Bonus,4,Yes,High,Lost,0.0
+TATACUST1063,26,Male,Pune,Nexon EV,1735000,2023-07-20,Google Search,5,Green Mobility Drive,6,No,Low,Lost,0.0
+TATACUST1064,25,Female,Mumbai,Nexon EV,1540000,2024-05-23,Print Media,10,Referral Program,12,Yes,High,Converted,1583678.5
+TATACUST1065,44,Female,Mumbai,Nexon EV,1480000,2023-11-18,TV Commercial,14,Referral Program,11,No,Medium,Contacted,0.0
+TATACUST1066,49,Male,Bengaluru,Punch EV,1370000,2023-10-02,Social Media,13,Referral Program,7,No,Medium,Converted,1386839.39
+TATACUST1067,36,Female,Delhi,Nexon EV,1830000,2023-07-30,Social Media,5,Festive Offer,8,No,Medium,Converted,1857309.72
+TATACUST1068,46,Female,Bengaluru,Punch EV,1335000,2024-05-18,Google Search,6,New Launch Blitz,5,No,Low,New,0.0
+TATACUST1069,40,Female,Pune,Curvv EV,1850000,2023-04-28,Google Search,13,New Launch Blitz,11,No,Medium,Lost,0.0
+TATACUST1070,30,Male,Mumbai,Nexon EV,1780000,2024-12-03,Google Search,6,Green Mobility Drive,10,No,Medium,Converted,1811020.59
+TATACUST1071,40,Female,Mumbai,Punch EV,1135000,2024-07-07,TV Commercial,6,Festive Offer,5,No,Low,Lost,0.0
+TATACUST1072,51,Female,Pune,Punch EV,1300000,2023-02-11,TV Commercial,4,Festive Offer,4,Yes,Medium,New,0.0
+TATACUST1073,36,Male,Delhi,Tiago EV,855000,2023-11-11,Dealership Visit,8,New Launch Blitz,7,No,Medium,Lost,0.0
+TATACUST1074,51,Male,Hyderabad,Nexon EV,1540000,2023-11-25,Google Search,15,Exchange Bonus,7,Yes,High,Converted,1547092.77
+TATACUST1075,21,Other,Hyderabad,Tiago EV,870000,2023-01-17,Dealership Visit,6,Green Mobility Drive,3,No,Low,Converted,904517.38
+TATACUST1076,44,Male,Ahmedabad,Nexon EV,1640000,2023-10-10,Google Search,7,Festive Offer,2,No,Low,Contacted,0.0
+TATACUST1077,37,Female,Hyderabad,Punch EV,1120000,2023-09-15,Social Media,7,Festive Offer,4,No,Low,New,0.0
+TATACUST1078,34,Male,Bengaluru,Nexon EV,1650000,2024-07-28,TV Commercial,7,Exchange Bonus,7,No,Medium,New,0.0
+TATACUST1079,37,Male,Hyderabad,Nexon EV,1705000,2024-07-27,TV Commercial,5,Green Mobility Drive,3,Yes,Medium,New,0.0
+TATACUST1080,21,Female,Delhi,Nexon EV,1690000,2024-09-03,Email Campaign,7,New Launch Blitz,16,No,High,Converted,1697429.84
+TATACUST1081,34,Male,Delhi,Nexon EV,1640000,2023-01-19,Dealership Visit,6,Exchange Bonus,3,Yes,Medium,Lost,0.0
+TATACUST1082,40,Male,Chennai,Tiago EV,1095000,2024-06-12,Print Media,8,Referral Program,6,Yes,Medium,Converted,1098930.24
+TATACUST1083,51,Male,Bengaluru,Tiago EV,850000,2024-02-27,Print Media,5,Festive Offer,2,No,Low,Lost,0.0
+TATACUST1084,32,Female,Chennai,Nexon EV,1700000,2024-04-10,TV Commercial,7,Festive Offer,5,Yes,Medium,Converted,1731239.34
+TATACUST1085,29,Male,Chennai,Punch EV,1125000,2024-01-08,TV Commercial,7,Green Mobility Drive,4,No,Low,Lost,0.0
+TATACUST1086,32,Male,Ahmedabad,Punch EV,1130000,2023-03-22,TV Commercial,4,Green Mobility Drive,9,No,Medium,New,0.0
+TATACUST1087,45,Female,Kolkata,Tiago EV,1000000,2024-07-04,Email Campaign,18,Festive Offer,2,No,Medium,Lost,0.0
+TATACUST1088,40,Male,Bengaluru,Punch EV,1355000,2024-07-01,Dealership Visit,6,New Launch Blitz,3,Yes,Medium,Lost,0.0
+TATACUST1089,31,Female,Delhi,Tiago EV,1105000,2024-02-28,Social Media,5,Green Mobility Drive,8,No,Medium,Lost,0.0
+TATACUST1090,41,Male,Pune,Curvv EV,2000000,2024-03-04,Dealership Visit,2,Festive Offer,14,No,Medium,Lost,0.0
+TATACUST1091,37,Female,Bengaluru,Punch EV,1530000,2024-01-23,Social Media,24,Festive Offer,9,No,High,Converted,1535616.54
+TATACUST1092,46,Male,Pune,Tigor EV,1255000,2024-12-09,Google Search,6,Festive Offer,6,No,Low,Lost,0.0
+TATACUST1093,30,Female,Hyderabad,Tiago EV,835000,2024-10-31,Social Media,14,New Launch Blitz,1,No,Low,Lost,0.0
+TATACUST1094,33,Male,Hyderabad,Nexon EV,1470000,2023-07-23,Dealership Visit,3,Festive Offer,4,Yes,Medium,Converted,1504283.74
+TATACUST1095,33,Male,Bengaluru,Punch EV,1180000,2023-07-15,Print Media,19,Green Mobility Drive,4,No,Medium,Contacted,0.0
+TATACUST1096,23,Male,Mumbai,Curvv EV,1995000,2024-12-28,Google Search,17,Exchange Bonus,6,No,Medium,New,0.0
+TATACUST1097,39,Male,Bengaluru,Curvv EV,2040000,2023-10-12,Social Media,10,Festive Offer,9,No,Medium,Converted,2042706.16
+TATACUST1098,39,Male,Mumbai,Punch EV,1120000,2023-07-15,Google Search,3,Festive Offer,7,Yes,Medium,Converted,1112312.77
+TATACUST1099,37,Male,Kolkata,Curvv EV,2175000,2023-11-03,TV Commercial,5,Festive Offer,16,No,Medium,Lost,0.0
+TATACUST1100,34,Female,Delhi,Harrier EV,2495000,2024-10-25,Google Search,6,Green Mobility Drive,9,Yes,High,Converted,2499491.62
+TATACUST1101,23,Male,Mumbai,Nexon EV,1595000,2023-01-14,Social Media,5,Festive Offer,6,No,Low,Converted,1616205.69
+TATACUST1102,33,Male,Mumbai,Curvv EV,1785000,2023-05-26,Social Media,4,Festive Offer,5,No,Low,Contacted,0.0
+TATACUST1103,33,Female,Hyderabad,Punch EV,1175000,2023-02-26,Google Search,2,Referral Program,13,Yes,High,Contacted,0.0
+TATACUST1104,29,Female,Hyderabad,Tigor EV,1265000,2024-12-23,Social Media,9,Festive Offer,4,No,Low,Contacted,0.0
+TATACUST1105,35,Male,Delhi,Tiago EV,840000,2023-07-29,Dealership Visit,6,Referral Program,3,No,Low,Lost,0.0
+TATACUST1106,40,Male,Mumbai,Tiago EV,980000,2024-06-12,Social Media,5,Referral Program,12,No,Medium,Contacted,0.0
+TATACUST1107,54,Male,Bengaluru,Harrier EV,2285000,2023-12-10,TV Commercial,4,Green Mobility Drive,7,No,Low,Lost,0.0
+TATACUST1108,38,Female,Delhi,Punch EV,1260000,2024-12-15,Social Media,25,Green Mobility Drive,8,Yes,High,Contacted,0.0
+TATACUST1109,39,Female,Hyderabad,Nexon EV,1945000,2024-09-02,Google Search,9,Festive Offer,9,No,Medium,Converted,1981230.21
+TATACUST1110,36,Male,Pune,Nexon EV,1790000,2023-10-06,Google Search,12,Referral Program,4,Yes,Medium,Lost,0.0
+TATACUST1111,21,Female,Bengaluru,Curvv EV,2175000,2023-07-28,Dealership Visit,6,Exchange Bonus,7,No,Low,Contacted,0.0
+TATACUST1112,36,Female,Delhi,Harrier EV,2250000,2024-10-02,Email Campaign,3,Exchange Bonus,8,Yes,Medium,Lost,0.0
+TATACUST1113,37,Female,Kochi,Punch EV,1270000,2023-12-01,Print Media,6,Festive Offer,11,No,Medium,Converted,1271957.94
+TATACUST1114,60,Female,Bengaluru,Tiago EV,995000,2023-10-15,TV Commercial,7,New Launch Blitz,6,No,Low,Contacted,0.0
+TATACUST1115,35,Male,Hyderabad,Punch EV,1135000,2023-09-09,Google Search,15,Festive Offer,6,No,Medium,Converted,1149442.43
+TATACUST1116,39,Male,Mumbai,Tiago EV,800000,2023-09-22,Dealership Visit,8,Green Mobility Drive,8,Yes,High,Converted,822784.02
+TATACUST1117,36,Male,Bengaluru,Tiago EV,1035000,2023-09-28,Dealership Visit,3,Green Mobility Drive,3,No,Low,Lost,0.0
+TATACUST1118,25,Male,Mumbai,Punch EV,1390000,2024-11-30,Social Media,25,Festive Offer,2,No,Medium,Contacted,0.0
+TATACUST1119,47,Male,Bengaluru,Nexon EV,1655000,2024-02-23,Print Media,5,Green Mobility Drive,3,No,Low,Lost,0.0
+TATACUST1120,44,Female,Jaipur,Tigor EV,1310000,2024-12-26,Google Search,25,Referral Program,2,No,Medium,Lost,0.0
+TATACUST1121,44,Male,Bengaluru,Punch EV,1285000,2023-07-30,Social Media,25,Referral Program,6,Yes,High,Converted,1298060.73
+TATACUST1122,28,Male,Mumbai,Nexon EV,1460000,2023-12-31,Google Search,5,Referral Program,4,No,Low,New,0.0
+TATACUST1123,50,Male,Mumbai,Punch EV,1250000,2023-03-17,Social Media,6,Green Mobility Drive,7,No,Low,Lost,0.0
+TATACUST1124,23,Female,Bengaluru,Tiago EV,860000,2024-10-21,Google Search,9,Exchange Bonus,6,Yes,Medium,Converted,868488.83
+TATACUST1125,42,Male,Mumbai,Nexon EV,1500000,2023-11-17,Social Media,8,Festive Offer,4,Yes,Medium,Converted,1534496.37
+TATACUST1126,57,Male,Mumbai,Nexon EV,1925000,2024-12-25,Social Media,7,Green Mobility Drive,8,No,Medium,Lost,0.0
+TATACUST1127,27,Male,Chennai,Nexon EV,1750000,2024-03-08,Social Media,23,Festive Offer,12,No,High,Converted,1766252.57
+TATACUST1128,31,Male,Bengaluru,Tiago EV,1055000,2023-04-19,TV Commercial,11,Green Mobility Drive,11,Yes,High,Converted,1094436.17
+TATACUST1129,37,Other,Delhi,Curvv EV,1890000,2024-10-02,Dealership Visit,5,Green Mobility Drive,6,No,Low,Converted,1890746.67
+TATACUST1130,32,Female,Kolkata,Nexon EV,1645000,2024-06-05,Google Search,4,Green Mobility Drive,9,No,Medium,Contacted,0.0
+TATACUST1131,22,Male,Mumbai,Tigor EV,1280000,2023-02-16,Social Media,9,Exchange Bonus,7,Yes,High,Converted,1302579.78
+TATACUST1132,37,Female,Jaipur,Nexon EV,1495000,2024-01-14,Social Media,6,New Launch Blitz,2,No,Low,Contacted,0.0
+TATACUST1133,26,Female,Delhi,Curvv EV,1830000,2023-04-06,Print Media,14,Green Mobility Drive,19,No,High,New,0.0
+TATACUST1134,41,Female,Ahmedabad,Nexon EV,1850000,2023-04-13,Google Search,6,New Launch Blitz,2,No,Low,Lost,0.0
+TATACUST1135,28,Male,Pune,Nexon EV,1790000,2023-05-26,Google Search,5,Referral Program,9,No,Medium,Converted,1792156.37
+TATACUST1136,51,Male,Chennai,Harrier EV,2390000,2023-01-27,Social Media,2,Green Mobility Drive,5,No,Low,New,0.0
+TATACUST1137,29,Male,Kochi,Nexon EV,1685000,2024-06-13,Dealership Visit,11,Exchange Bonus,1,Yes,Medium,Converted,1713898.31
+TATACUST1138,33,Female,Delhi,Punch EV,1515000,2024-11-09,TV Commercial,2,Festive Offer,7,No,Low,Contacted,0.0
+TATACUST1139,44,Male,Jaipur,Nexon EV,1485000,2023-03-23,Social Media,11,Referral Program,11,No,Medium,Lost,0.0
+TATACUST1140,25,Male,Bengaluru,Punch EV,1225000,2024-03-03,Social Media,9,Exchange Bonus,7,Yes,High,Converted,1252950.42
+TATACUST1141,39,Male,Bengaluru,Punch EV,1255000,2024-08-06,Google Search,13,New Launch Blitz,8,Yes,High,Converted,1290638.22
+TATACUST1142,49,Female,Delhi,Nexon EV,1840000,2024-04-23,Print Media,10,Exchange Bonus,3,Yes,Medium,Lost,0.0
+TATACUST1143,21,Male,Pune,Curvv EV,2195000,2023-06-11,Print Media,4,Referral Program,6,No,Low,Lost,0.0
+TATACUST1144,38,Female,Mumbai,Curvv EV,1855000,2024-02-06,TV Commercial,10,Referral Program,13,Yes,High,Converted,1860476.96
+TATACUST1145,39,Female,Pune,Punch EV,1490000,2024-05-22,Dealership Visit,5,Green Mobility Drive,3,Yes,Medium,Converted,1503556.68
+TATACUST1146,44,Male,Pune,Tigor EV,1355000,2023-02-07,Social Media,6,Festive Offer,9,No,Medium,Converted,1386482.21
+TATACUST1147,25,Female,Chennai,Tiago EV,880000,2024-05-25,TV Commercial,5,Green Mobility Drive,8,Yes,Medium,Lost,0.0
+TATACUST1148,24,Male,Ahmedabad,Harrier EV,2340000,2024-01-28,TV Commercial,11,Green Mobility Drive,7,No,Medium,Contacted,0.0
+TATACUST1149,41,Female,Bengaluru,Harrier EV,2345000,2024-12-13,Social Media,19,Festive Offer,3,Yes,High,Converted,2354830.1
+TATACUST1150,39,Male,Delhi,Nexon EV,1940000,2024-05-08,Print Media,9,New Launch Blitz,2,No,Low,Lost,0.0
+TATACUST1151,39,Female,Delhi,Nexon EV,1540000,2023-07-19,Social Media,6,Green Mobility Drive,6,Yes,Medium,Lost,0.0
+TATACUST1152,40,Female,Delhi,Nexon EV,1850000,2023-09-12,Google Search,10,New Launch Blitz,5,Yes,Medium,Contacted,0.0
+TATACUST1153,30,Female,Mumbai,Nexon EV,1615000,2023-06-28,TV Commercial,3,Referral Program,4,Yes,Medium,Converted,1621979.43
+TATACUST1154,39,Female,Delhi,Tiago EV,1055000,2024-06-30,TV Commercial,20,Exchange Bonus,7,No,Medium,Lost,0.0
+TATACUST1155,39,Male,Delhi,Punch EV,1290000,2024-08-16,Dealership Visit,5,New Launch Blitz,6,Yes,Medium,Converted,1328380.35
+TATACUST1156,30,Female,Jaipur,Nexon EV,1740000,2024-01-24,Social Media,25,Green Mobility Drive,6,Yes,High,Converted,1767002.26
+TATACUST1157,54,Female,Pune,Nexon EV,1865000,2024-02-02,Print Media,13,New Launch Blitz,3,No,Low,Contacted,0.0
+TATACUST1158,41,Male,Delhi,Punch EV,1460000,2023-06-07,TV Commercial,14,Green Mobility Drive,6,Yes,High,Converted,1483356.99
+TATACUST1159,25,Male,Pune,Harrier EV,2505000,2023-01-04,Google Search,11,Green Mobility Drive,4,No,Low,Contacted,0.0
+TATACUST1160,43,Female,Mumbai,Tiago EV,820000,2023-06-16,Email Campaign,6,Green Mobility Drive,4,Yes,Medium,Lost,0.0
+TATACUST1161,27,Female,Bengaluru,Tigor EV,1335000,2024-04-12,Dealership Visit,9,Green Mobility Drive,17,Yes,High,Converted,1377386.57
+TATACUST1162,44,Female,Pune,Nexon EV,1520000,2024-02-13,Social Media,4,Exchange Bonus,6,No,Low,Contacted,0.0
+TATACUST1163,48,Male,Bengaluru,Nexon EV,1655000,2024-02-16,Dealership Visit,8,Green Mobility Drive,6,No,Low,Converted,1677633.84
+TATACUST1164,29,Female,Bengaluru,Nexon EV,1725000,2023-07-23,Social Media,8,Green Mobility Drive,4,Yes,Medium,Converted,1754809.46
+TATACUST1165,46,Male,Kochi,Punch EV,1280000,2023-07-13,Social Media,18,New Launch Blitz,10,Yes,High,Contacted,0.0
+TATACUST1166,40,Female,Ahmedabad,Tiago EV,980000,2023-08-23,Google Search,6,Exchange Bonus,9,Yes,High,Converted,993105.55
+TATACUST1167,44,Male,Pune,Nexon EV,1945000,2024-12-18,Email Campaign,3,Green Mobility Drive,6,Yes,Medium,Converted,1969917.5
+TATACUST1168,55,Female,Pune,Nexon EV,1515000,2023-05-30,Social Media,6,Exchange Bonus,7,No,Low,Contacted,0.0
+TATACUST1169,34,Other,Pune,Tiago EV,1035000,2023-06-08,TV Commercial,10,Referral Program,12,Yes,High,Converted,1066983.66
+TATACUST1170,29,Male,Delhi,Nexon EV,1645000,2023-10-06,Social Media,3,New Launch Blitz,6,No,Low,New,0.0
+TATACUST1171,28,Other,Bengaluru,Punch EV,1160000,2024-02-08,Dealership Visit,7,Green Mobility Drive,8,Yes,High,Converted,1201469.36
+TATACUST1172,29,Male,Mumbai,Nexon EV,1530000,2024-11-08,Google Search,12,Festive Offer,5,No,Medium,Contacted,0.0
+TATACUST1173,36,Female,Bengaluru,Curvv EV,2175000,2023-11-07,TV Commercial,10,Green Mobility Drive,4,No,Low,Contacted,0.0
+TATACUST1174,40,Female,Pune,Tiago EV,1105000,2023-03-09,Social Media,7,Green Mobility Drive,16,No,High,Contacted,0.0
+TATACUST1175,39,Male,Delhi,Tiago EV,1115000,2024-04-07,Dealership Visit,6,New Launch Blitz,4,Yes,Medium,Converted,1123332.14
+TATACUST1176,44,Female,Jaipur,Nexon EV,1945000,2023-03-29,Email Campaign,11,Green Mobility Drive,13,No,Medium,Converted,1949806.73
+TATACUST1177,37,Female,Kolkata,Nexon EV,1555000,2023-08-05,TV Commercial,6,New Launch Blitz,8,No,Medium,Contacted,0.0
+TATACUST1178,50,Male,Hyderabad,Nexon EV,1625000,2023-01-01,Google Search,11,Green Mobility Drive,7,Yes,High,Converted,1632899.26
+TATACUST1179,34,Male,Pune,Curvv EV,2050000,2023-05-15,Email Campaign,2,New Launch Blitz,2,No,Low,Lost,0.0
+TATACUST1180,62,Female,Ahmedabad,Nexon EV,1690000,2024-11-27,Social Media,15,Festive Offer,14,No,High,Contacted,0.0
+TATACUST1181,42,Female,Mumbai,Harrier EV,2345000,2023-12-17,Dealership Visit,7,New Launch Blitz,5,No,Low,Converted,2370899.35
+TATACUST1182,28,Female,Chennai,Tigor EV,1295000,2023-05-20,Print Media,5,New Launch Blitz,3,No,Low,Contacted,0.0
+TATACUST1183,26,Female,Mumbai,Punch EV,1365000,2024-09-09,Social Media,9,New Launch Blitz,8,No,Medium,Contacted,0.0
+TATACUST1184,41,Male,Chennai,Punch EV,1360000,2023-05-13,Google Search,10,Festive Offer,2,No,Low,New,0.0
+TATACUST1185,34,Female,Delhi,Tiago EV,855000,2024-09-11,Social Media,2,Festive Offer,9,Yes,Medium,Lost,0.0
+TATACUST1186,43,Male,Ahmedabad,Tigor EV,1310000,2023-06-27,TV Commercial,11,Exchange Bonus,2,No,Low,Lost,0.0
+TATACUST1187,41,Male,Jaipur,Punch EV,1350000,2023-12-24,TV Commercial,4,Festive Offer,1,No,Low,New,0.0
+TATACUST1188,36,Male,Mumbai,Curvv EV,2005000,2024-01-15,Google Search,17,Festive Offer,7,Yes,High,Converted,2029481.99
+TATACUST1189,28,Male,Bengaluru,Nexon EV,1555000,2024-10-19,Google Search,15,Festive Offer,8,Yes,High,Converted,1567990.55
+TATACUST1190,22,Male,Kochi,Nexon EV,1820000,2024-03-25,Social Media,6,Green Mobility Drive,4,No,Low,Contacted,0.0
+TATACUST1191,32,Male,Bengaluru,Punch EV,1110000,2024-08-08,Google Search,13,Green Mobility Drive,14,No,High,Converted,1142406.24
+TATACUST1192,45,Female,Ahmedabad,Tiago EV,925000,2024-04-07,Social Media,6,Festive Offer,8,No,Medium,Lost,0.0
+TATACUST1193,39,Male,Pune,Tiago EV,1070000,2023-04-18,Print Media,3,Festive Offer,3,No,Low,Lost,0.0
+TATACUST1194,25,Male,Bengaluru,Punch EV,1355000,2023-05-02,Social Media,22,Green Mobility Drive,4,No,Medium,Contacted,0.0
+TATACUST1195,38,Male,Delhi,Tiago EV,890000,2023-01-17,Print Media,8,Exchange Bonus,4,No,Low,Lost,0.0
+TATACUST1196,40,Male,Delhi,Nexon EV,1795000,2023-07-15,TV Commercial,7,Festive Offer,6,Yes,Medium,Converted,1825663.98
+TATACUST1197,28,Male,Chennai,Curvv EV,2005000,2023-11-23,Google Search,7,Green Mobility Drive,15,Yes,High,Lost,0.0
+TATACUST1198,38,Male,Bengaluru,Curvv EV,2105000,2023-11-14,Dealership Visit,4,New Launch Blitz,6,Yes,Medium,Contacted,0.0
+TATACUST1199,37,Female,Pune,Nexon EV,1815000,2024-04-23,Google Search,25,New Launch Blitz,3,Yes,High,Converted,1849636.55
+TATACUST1200,26,Female,Bengaluru,Tiago EV,1015000,2023-09-09,Google Search,2,New Launch Blitz,3,No,Low,Lost,0.0
+TATACUST1201,40,Female,Pune,Curvv EV,1970000,2024-05-17,Social Media,5,New Launch Blitz,8,No,Medium,Contacted,0.0
+TATACUST1202,42,Male,Ahmedabad,Curvv EV,1810000,2023-04-29,Google Search,9,Green Mobility Drive,2,No,Low,Lost,0.0
+TATACUST1203,47,Male,Kochi,Tiago EV,890000,2024-11-04,Social Media,6,Exchange Bonus,3,No,Low,Lost,0.0
+TATACUST1204,47,Female,Bengaluru,Nexon EV,1660000,2024-12-10,Social Media,8,Green Mobility Drive,9,No,Medium,Lost,0.0
+TATACUST1205,23,Male,Chennai,Punch EV,1370000,2024-05-12,Google Search,6,Exchange Bonus,6,No,Low,Contacted,0.0
+TATACUST1206,28,Male,Chennai,Nexon EV,1705000,2024-04-30,Social Media,5,Green Mobility Drive,8,No,Medium,Converted,1755502.47
+TATACUST1207,41,Male,Pune,Harrier EV,2300000,2023-02-14,Social Media,5,Exchange Bonus,7,Yes,Medium,Converted,2317834.5
+TATACUST1208,41,Male,Jaipur,Tiago EV,800000,2023-11-10,Social Media,17,Green Mobility Drive,10,No,Medium,New,0.0
+TATACUST1209,41,Male,Delhi,Curvv EV,1970000,2023-06-28,Social Media,4,Festive Offer,4,Yes,Medium,New,0.0
+TATACUST1210,68,Male,Mumbai,Nexon EV,1590000,2024-02-22,Social Media,12,Referral Program,6,Yes,High,Contacted,0.0
+TATACUST1211,42,Female,Ahmedabad,Harrier EV,2455000,2024-07-09,Email Campaign,11,Festive Offer,5,No,Medium,Lost,0.0
+TATACUST1212,47,Male,Bengaluru,Punch EV,1110000,2023-03-19,Social Media,13,Festive Offer,4,No,Medium,Contacted,0.0
+TATACUST1213,46,Female,Ahmedabad,Curvv EV,2010000,2023-11-22,TV Commercial,18,Festive Offer,3,Yes,High,Converted,2055425.06
+TATACUST1214,43,Female,Kolkata,Tiago EV,1130000,2024-11-20,Social Media,6,Green Mobility Drive,12,No,Medium,Lost,0.0
+TATACUST1215,34,Female,Mumbai,Punch EV,1175000,2023-12-23,Email Campaign,4,Festive Offer,4,No,Low,Lost,0.0
+TATACUST1216,44,Female,Ahmedabad,Tiago EV,965000,2024-02-20,Social Media,6,New Launch Blitz,8,Yes,Medium,Lost,0.0
+TATACUST1217,29,Female,Bengaluru,Harrier EV,2230000,2024-05-29,Email Campaign,3,Green Mobility Drive,5,Yes,Medium,Contacted,0.0
+TATACUST1218,34,Male,Pune,Nexon EV,1760000,2023-08-02,TV Commercial,13,Green Mobility Drive,5,No,Medium,New,0.0
+TATACUST1219,32,Male,Pune,Curvv EV,1995000,2023-03-15,Social Media,11,Green Mobility Drive,4,Yes,Medium,Converted,2022326.28
+TATACUST1220,37,Male,Kolkata,Curvv EV,1930000,2024-07-16,Print Media,15,Exchange Bonus,7,No,Medium,Lost,0.0
+TATACUST1221,58,Female,Mumbai,Tiago EV,980000,2024-08-01,TV Commercial,2,Referral Program,4,No,Low,New,0.0
+TATACUST1222,21,Female,Bengaluru,Punch EV,1500000,2024-05-23,Social Media,18,Exchange Bonus,12,Yes,High,Converted,1498102.46
+TATACUST1223,43,Male,Hyderabad,Tiago EV,870000,2023-11-28,Dealership Visit,5,Referral Program,20,Yes,High,Converted,892427.26
+TATACUST1224,21,Female,Hyderabad,Tiago EV,805000,2023-04-03,Email Campaign,8,New Launch Blitz,8,No,Medium,Contacted,0.0
+TATACUST1225,32,Male,Hyderabad,Punch EV,1485000,2024-11-18,Google Search,8,Referral Program,6,No,Low,Contacted,0.0
+TATACUST1226,47,Female,Mumbai,Punch EV,1360000,2024-10-18,Google Search,10,Exchange Bonus,13,Yes,High,Converted,1389019.26
+TATACUST1227,37,Male,Delhi,Punch EV,1500000,2024-06-02,Dealership Visit,7,Festive Offer,8,Yes,High,Converted,1535588.71
+TATACUST1228,26,Male,Bengaluru,Tiago EV,1010000,2023-09-26,Dealership Visit,22,Exchange Bonus,4,Yes,High,Converted,1043593.18
+TATACUST1229,30,Male,Chennai,Tiago EV,1085000,2024-01-11,Print Media,17,Green Mobility Drive,5,No,Medium,Lost,0.0
+TATACUST1230,43,Male,Delhi,Tiago EV,950000,2023-01-04,Dealership Visit,14,Exchange Bonus,11,Yes,High,Converted,964771.26
+TATACUST1231,30,Male,Delhi,Harrier EV,2460000,2023-05-18,Social Media,5,Referral Program,6,Yes,Medium,New,0.0
+TATACUST1232,39,Male,Jaipur,Nexon EV,1905000,2023-08-19,Email Campaign,14,Referral Program,4,No,Medium,Lost,0.0
+TATACUST1233,37,Female,Mumbai,Harrier EV,2400000,2024-08-22,Social Media,13,Referral Program,5,No,Medium,Lost,0.0
+TATACUST1234,30,Male,Kochi,Punch EV,1180000,2024-06-12,Social Media,2,Festive Offer,13,No,Medium,New,0.0
+TATACUST1235,57,Male,Hyderabad,Punch EV,1220000,2023-02-21,TV Commercial,5,Festive Offer,2,No,Low,Converted,1239305.68
+TATACUST1236,43,Female,Chennai,Nexon EV,1550000,2024-10-07,TV Commercial,4,Festive Offer,5,Yes,Medium,Converted,1572496.24
+TATACUST1237,21,Female,Delhi,Punch EV,1210000,2024-12-23,Social Media,3,New Launch Blitz,5,Yes,Medium,Converted,1238639.73
+TATACUST1238,38,Male,Mumbai,Punch EV,1235000,2023-11-21,Dealership Visit,7,Referral Program,3,Yes,Medium,Converted,1272385.32
+TATACUST1239,30,Male,Hyderabad,Punch EV,1350000,2024-12-17,Google Search,25,Exchange Bonus,5,Yes,High,Converted,1359456.5
+TATACUST1240,45,Male,Ahmedabad,Tiago EV,1005000,2024-12-23,Google Search,6,Exchange Bonus,7,No,Low,Contacted,0.0
+TATACUST1241,29,Male,Chennai,Punch EV,1290000,2023-10-04,Dealership Visit,6,Exchange Bonus,10,Yes,High,Converted,1285978.23
+TATACUST1242,35,Female,Mumbai,Punch EV,1375000,2024-06-19,Google Search,25,New Launch Blitz,8,Yes,High,Converted,1381831.24
+TATACUST1243,41,Male,Chennai,Nexon EV,1490000,2024-04-30,Social Media,5,Referral Program,10,No,Medium,Contacted,0.0
+TATACUST1244,45,Male,Chennai,Tiago EV,830000,2024-05-30,Social Media,17,Exchange Bonus,12,No,High,Lost,0.0
+TATACUST1245,25,Female,Hyderabad,Tiago EV,860000,2023-06-01,Email Campaign,9,Exchange Bonus,9,No,Medium,Contacted,0.0
+TATACUST1246,33,Male,Chennai,Nexon EV,1710000,2024-04-27,Social Media,9,Festive Offer,11,No,Medium,New,0.0
+TATACUST1247,32,Male,Ahmedabad,Tiago EV,875000,2023-09-16,Google Search,5,Exchange Bonus,15,Yes,High,Converted,897046.93
+TATACUST1248,30,Male,Pune,Punch EV,1225000,2023-11-20,Google Search,9,Green Mobility Drive,3,No,Low,Lost,0.0
+TATACUST1249,53,Female,Mumbai,Curvv EV,1930000,2023-06-17,Google Search,2,Festive Offer,12,Yes,High,Converted,1975876.15
+TATACUST1250,40,Male,Bengaluru,Tiago EV,1085000,2024-11-18,Social Media,11,Referral Program,5,Yes,Medium,Converted,1103817.58
+TATACUST1251,25,Female,Mumbai,Tiago EV,805000,2023-11-06,Google Search,7,Green Mobility Drive,7,Yes,Medium,New,0.0
+TATACUST1252,45,Male,Bengaluru,Punch EV,1390000,2024-04-23,Google Search,16,New Launch Blitz,8,No,Medium,Lost,0.0
+TATACUST1253,57,Male,Bengaluru,Punch EV,1400000,2023-02-25,Email Campaign,5,Festive Offer,4,No,Low,Lost,0.0
+TATACUST1254,46,Female,Mumbai,Tigor EV,1350000,2024-09-11,Social Media,2,Green Mobility Drive,8,No,Low,Contacted,0.0
+TATACUST1255,22,Female,Delhi,Nexon EV,1915000,2024-04-17,Google Search,10,Green Mobility Drive,8,No,Medium,New,0.0
+TATACUST1256,32,Female,Mumbai,Tiago EV,805000,2023-10-23,Google Search,4,Festive Offer,8,Yes,Medium,Converted,824804.47
+TATACUST1257,49,Female,Chennai,Nexon EV,1525000,2024-04-05,Google Search,11,Green Mobility Drive,4,No,Low,Contacted,0.0
+TATACUST1258,30,Female,Jaipur,Tigor EV,1360000,2023-11-20,TV Commercial,25,Festive Offer,13,No,High,Converted,1394384.38
+TATACUST1259,41,Male,Mumbai,Tiago EV,960000,2023-05-21,Social Media,12,Festive Offer,7,No,Medium,Contacted,0.0
+TATACUST1260,44,Male,Jaipur,Nexon EV,1730000,2024-10-28,Social Media,4,Festive Offer,7,Yes,Medium,Contacted,0.0
+TATACUST1261,28,Female,Pune,Punch EV,1395000,2023-09-19,Dealership Visit,8,Festive Offer,4,Yes,Medium,Converted,1393362.16
+TATACUST1262,36,Male,Delhi,Punch EV,1405000,2024-02-24,Google Search,9,Referral Program,10,Yes,High,Converted,1426154.88
+TATACUST1263,21,Female,Mumbai,Tiago EV,1125000,2023-08-29,Google Search,13,Festive Offer,7,Yes,High,Converted,1172117.43
+TATACUST1264,27,Female,Bengaluru,Punch EV,1550000,2023-12-21,Social Media,3,Exchange Bonus,3,No,Low,Contacted,0.0
+TATACUST1265,34,Male,Chennai,Punch EV,1425000,2024-08-11,Social Media,9,Referral Program,5,No,Low,Contacted,0.0
+TATACUST1266,25,Male,Hyderabad,Nexon EV,1595000,2023-06-29,Social Media,8,Green Mobility Drive,8,Yes,High,Lost,0.0
+TATACUST1267,52,Female,Mumbai,Tiago EV,1105000,2023-03-07,Social Media,4,New Launch Blitz,3,No,Low,Contacted,0.0
+TATACUST1268,23,Male,Mumbai,Punch EV,1120000,2023-12-14,TV Commercial,6,Exchange Bonus,8,No,Medium,Contacted,0.0
+TATACUST1269,32,Female,Bengaluru,Punch EV,1205000,2023-06-20,Print Media,5,Referral Program,7,No,Low,Lost,0.0
+TATACUST1270,38,Male,Delhi,Nexon EV,1900000,2024-04-18,Google Search,16,Festive Offer,10,No,Medium,New,0.0
+TATACUST1271,50,Female,Delhi,Tigor EV,1280000,2024-06-17,Google Search,20,Referral Program,6,Yes,High,Converted,1308062.95
+TATACUST1272,23,Male,Delhi,Nexon EV,1560000,2024-01-02,Social Media,11,Referral Program,3,No,Low,Contacted,0.0
+TATACUST1273,48,Female,Chennai,Nexon EV,1520000,2023-04-17,Google Search,6,Green Mobility Drive,2,No,Low,Contacted,0.0
+TATACUST1274,37,Male,Kolkata,Curvv EV,2135000,2024-03-14,Social Media,3,Festive Offer,1,No,Low,Contacted,0.0
+TATACUST1275,27,Female,Bengaluru,Punch EV,1325000,2023-08-15,Print Media,25,Green Mobility Drive,5,Yes,High,Converted,1354789.56
+TATACUST1276,41,Male,Kolkata,Tigor EV,1335000,2024-03-19,TV Commercial,25,Referral Program,6,No,Medium,New,0.0
+TATACUST1277,38,Female,Delhi,Curvv EV,1855000,2024-03-17,Email Campaign,19,Green Mobility Drive,19,Yes,High,Converted,1893239.25
+TATACUST1278,31,Female,Bengaluru,Harrier EV,2465000,2024-01-31,Print Media,11,Referral Program,9,Yes,High,Converted,2505210.33
+TATACUST1279,37,Male,Delhi,Curvv EV,2090000,2024-12-28,Google Search,4,Festive Offer,3,Yes,Medium,Converted,2106198.38
+TATACUST1280,33,Male,Hyderabad,Punch EV,1240000,2024-08-03,Google Search,14,Referral Program,7,No,Medium,Converted,1244414.4
+TATACUST1281,38,Male,Kochi,Tiago EV,945000,2023-03-25,Social Media,7,Festive Offer,4,Yes,Medium,New,0.0
+TATACUST1282,43,Female,Pune,Punch EV,1195000,2024-09-06,Google Search,4,Festive Offer,13,Yes,High,Converted,1224219.55
+TATACUST1283,52,Female,Bengaluru,Nexon EV,1935000,2024-07-04,Print Media,13,Exchange Bonus,2,No,Low,Contacted,0.0
+TATACUST1284,25,Male,Hyderabad,Punch EV,1390000,2023-01-13,Social Media,2,Festive Offer,10,Yes,Medium,Converted,1406157.82
+TATACUST1285,57,Male,Mumbai,Punch EV,1520000,2024-11-23,Print Media,4,Festive Offer,12,No,Medium,Lost,0.0
+TATACUST1286,21,Male,Ahmedabad,Curvv EV,1885000,2024-05-07,Google Search,8,Festive Offer,4,Yes,Medium,Converted,1926190.58
+TATACUST1287,35,Female,Bengaluru,Punch EV,1450000,2023-09-25,Print Media,6,Green Mobility Drive,9,No,Medium,Contacted,0.0
+TATACUST1288,42,Male,Bengaluru,Curvv EV,2095000,2024-06-08,Email Campaign,15,New Launch Blitz,13,No,High,Contacted,0.0
+TATACUST1289,39,Other,Pune,Punch EV,1410000,2023-04-30,TV Commercial,4,Referral Program,12,Yes,High,Converted,1441232.76
+TATACUST1290,31,Male,Pune,Punch EV,1535000,2023-12-19,TV Commercial,3,Green Mobility Drive,9,No,Medium,Contacted,0.0
+TATACUST1291,35,Female,Mumbai,Punch EV,1275000,2023-02-26,Google Search,2,Festive Offer,4,No,Low,New,0.0
+TATACUST1292,32,Male,Hyderabad,Nexon EV,1515000,2023-02-09,Print Media,2,Green Mobility Drive,8,No,Low,Contacted,0.0
+TATACUST1293,31,Male,Delhi,Tiago EV,1035000,2023-12-02,Email Campaign,5,Exchange Bonus,11,No,Medium,Lost,0.0
+TATACUST1294,45,Female,Hyderabad,Tiago EV,1055000,2024-10-01,Dealership Visit,10,Green Mobility Drive,11,No,Medium,Contacted,0.0
+TATACUST1295,40,Female,Chennai,Harrier EV,2400000,2023-06-22,TV Commercial,6,Festive Offer,6,Yes,Medium,Converted,2443332.66
+TATACUST1296,30,Other,Chennai,Tiago EV,870000,2024-06-30,TV Commercial,10,Festive Offer,7,Yes,High,Contacted,0.0
+TATACUST1297,45,Male,Pune,Tigor EV,1315000,2023-09-16,Print Media,25,Referral Program,9,Yes,High,Converted,1317716.34
+TATACUST1298,39,Male,Pune,Tigor EV,1290000,2024-05-31,TV Commercial,9,Green Mobility Drive,5,No,Low,Converted,1309073.69
+TATACUST1299,44,Female,Mumbai,Punch EV,1290000,2024-12-30,Dealership Visit,3,Referral Program,5,Yes,Medium,Converted,1321557.0
+TATACUST1300,42,Male,Chennai,Nexon EV,1770000,2024-06-06,Google Search,2,Green Mobility Drive,5,No,Low,Contacted,0.0
+TATACUST1301,29,Male,Delhi,Punch EV,1435000,2023-04-27,Social Media,16,Festive Offer,8,Yes,High,Converted,1440842.5
+TATACUST1302,31,Male,Bengaluru,Tigor EV,1280000,2023-07-03,Google Search,6,Green Mobility Drive,5,Yes,Medium,Converted,1310233.32
+TATACUST1303,44,Male,Delhi,Punch EV,1280000,2023-04-26,Google Search,15,Green Mobility Drive,4,Yes,High,Converted,1309960.39
+TATACUST1304,42,Female,Mumbai,Nexon EV,1585000,2023-06-11,Social Media,16,Festive Offer,3,No,Medium,Converted,1611607.77
+TATACUST1305,36,Male,Pune,Tiago EV,870000,2024-08-01,Social Media,19,Festive Offer,4,No,Medium,Contacted,0.0
+TATACUST1306,38,Male,Mumbai,Tigor EV,1350000,2024-12-12,TV Commercial,20,Festive Offer,2,No,Medium,Contacted,0.0
+TATACUST1307,49,Male,Chennai,Tiago EV,1115000,2024-06-26,Social Media,8,Festive Offer,16,No,High,New,0.0
+TATACUST1308,31,Male,Delhi,Punch EV,1265000,2024-08-09,Google Search,7,Green Mobility Drive,2,Yes,Medium,Converted,1297248.49
+TATACUST1309,42,Male,Mumbai,Tiago EV,1060000,2023-08-25,Dealership Visit,22,New Launch Blitz,16,Yes,High,Converted,1090068.82
+TATACUST1310,35,Male,Pune,Tiago EV,1115000,2023-03-07,Email Campaign,6,Green Mobility Drive,5,Yes,Medium,Lost,0.0
+TATACUST1311,34,Male,Mumbai,Nexon EV,1870000,2023-03-11,Dealership Visit,2,Exchange Bonus,8,Yes,Medium,Converted,1864831.31
+TATACUST1312,47,Female,Delhi,Punch EV,1180000,2024-03-22,Email Campaign,9,Green Mobility Drive,9,No,Medium,Contacted,0.0
+TATACUST1313,44,Male,Hyderabad,Curvv EV,2180000,2024-02-20,Dealership Visit,9,Green Mobility Drive,5,Yes,Medium,Converted,2215870.21
+TATACUST1314,44,Male,Mumbai,Harrier EV,2330000,2024-06-15,Google Search,16,Festive Offer,5,Yes,High,Converted,2370191.9
+TATACUST1315,49,Female,Ahmedabad,Tigor EV,1290000,2024-03-16,TV Commercial,11,Green Mobility Drive,10,Yes,High,Converted,1322850.96
+TATACUST1316,37,Female,Mumbai,Tiago EV,820000,2024-04-08,Dealership Visit,5,Green Mobility Drive,20,Yes,High,Converted,846416.79
+TATACUST1317,43,Male,Delhi,Punch EV,1320000,2024-01-31,Google Search,22,Festive Offer,2,No,Medium,Contacted,0.0
+TATACUST1318,34,Male,Chennai,Nexon EV,1505000,2024-12-11,Social Media,12,Referral Program,7,No,Medium,Contacted,0.0
+TATACUST1319,40,Male,Delhi,Punch EV,1210000,2024-07-04,Dealership Visit,8,Green Mobility Drive,4,No,Low,Contacted,0.0
+TATACUST1320,35,Female,Mumbai,Tiago EV,910000,2024-10-18,Social Media,6,Green Mobility Drive,6,No,Low,Converted,934465.47
+TATACUST1321,37,Other,Bengaluru,Tigor EV,1350000,2024-07-10,TV Commercial,5,Festive Offer,12,Yes,High,Converted,1369580.94
+TATACUST1322,42,Female,Delhi,Curvv EV,2145000,2024-01-30,Social Media,9,Exchange Bonus,6,Yes,Medium,Lost,0.0
+TATACUST1323,29,Male,Ahmedabad,Nexon EV,1600000,2023-11-22,TV Commercial,3,Referral Program,8,Yes,Medium,Converted,1637917.07
+TATACUST1324,56,Female,Delhi,Tiago EV,1100000,2023-04-01,Google Search,3,Festive Offer,8,Yes,Medium,Converted,1122330.26
+TATACUST1325,27,Male,Chennai,Nexon EV,1880000,2023-03-11,Social Media,9,Festive Offer,8,No,Medium,Lost,0.0
+TATACUST1326,25,Male,Kolkata,Punch EV,1445000,2023-06-15,Google Search,7,Green Mobility Drive,10,No,Medium,Lost,0.0
+TATACUST1327,48,Male,Bengaluru,Tiago EV,850000,2024-10-03,TV Commercial,6,Festive Offer,3,No,Low,Contacted,0.0
+TATACUST1328,44,Female,Kolkata,Curvv EV,2060000,2023-08-02,Print Media,5,Exchange Bonus,15,No,Medium,Lost,0.0
+TATACUST1329,42,Male,Bengaluru,Punch EV,1525000,2024-08-23,Print Media,7,Exchange Bonus,5,No,Low,New,0.0
+TATACUST1330,42,Female,Jaipur,Punch EV,1405000,2023-12-01,Google Search,14,Festive Offer,7,Yes,High,Converted,1404897.85
+TATACUST1331,36,Male,Mumbai,Tiago EV,915000,2024-01-04,Dealership Visit,5,Festive Offer,13,Yes,High,Converted,924275.26
+TATACUST1332,28,Male,Hyderabad,Curvv EV,1975000,2024-08-06,Google Search,4,Exchange Bonus,8,No,Low,Lost,0.0
+TATACUST1333,37,Male,Bengaluru,Nexon EV,1770000,2024-11-07,Google Search,10,Festive Offer,2,Yes,Medium,Converted,1812778.58
+TATACUST1334,30,Male,Bengaluru,Nexon EV,1705000,2023-02-18,Social Media,24,Festive Offer,1,No,Medium,Lost,0.0
+TATACUST1335,46,Female,Hyderabad,Nexon EV,1510000,2023-02-21,TV Commercial,9,Referral Program,6,No,Medium,Lost,0.0
+TATACUST1336,35,Male,Hyderabad,Tiago EV,910000,2023-10-16,Google Search,4,Green Mobility Drive,10,Yes,High,Converted,918667.4
+TATACUST1337,29,Female,Mumbai,Punch EV,1460000,2024-09-17,Social Media,5,Green Mobility Drive,15,Yes,High,New,0.0
+TATACUST1338,33,Female,Mumbai,Punch EV,1485000,2023-08-27,Dealership Visit,14,Festive Offer,9,No,Medium,Converted,1489605.9
+TATACUST1339,40,Female,Hyderabad,Tiago EV,845000,2023-05-13,Dealership Visit,6,Exchange Bonus,4,No,Low,New,0.0
+TATACUST1340,31,Male,Hyderabad,Punch EV,1530000,2023-06-15,Google Search,10,Green Mobility Drive,6,Yes,Medium,Contacted,0.0
+TATACUST1341,29,Male,Jaipur,Curvv EV,1895000,2024-01-09,Social Media,7,New Launch Blitz,12,No,Medium,Converted,1938593.0
+TATACUST1342,39,Male,Chennai,Tiago EV,1030000,2024-01-08,Google Search,6,Exchange Bonus,3,Yes,Medium,Converted,1064858.08
+TATACUST1343,39,Other,Jaipur,Punch EV,1435000,2024-04-22,Google Search,15,Festive Offer,2,Yes,Medium,Converted,1463323.16
+TATACUST1344,32,Female,Hyderabad,Tiago EV,1085000,2024-04-23,TV Commercial,13,Green Mobility Drive,3,No,Low,Lost,0.0
+TATACUST1345,32,Male,Delhi,Punch EV,1525000,2024-10-11,Google Search,10,Green Mobility Drive,5,Yes,Medium,Lost,0.0
+TATACUST1346,39,Female,Mumbai,Curvv EV,1890000,2024-08-13,Dealership Visit,6,Green Mobility Drive,5,Yes,Medium,Converted,1900651.12
+TATACUST1347,23,Male,Chennai,Punch EV,1485000,2024-11-12,Print Media,4,Referral Program,11,No,Medium,Contacted,0.0
+TATACUST1348,23,Female,Hyderabad,Punch EV,1160000,2024-09-26,Social Media,8,Exchange Bonus,10,Yes,High,Converted,1174714.53
+TATACUST1349,30,Male,Mumbai,Nexon EV,1800000,2024-11-18,Email Campaign,7,Festive Offer,13,No,Medium,Lost,0.0
+TATACUST1350,34,Female,Bengaluru,Tiago EV,1060000,2023-10-27,Google Search,6,Exchange Bonus,4,No,Low,Contacted,0.0
+TATACUST1351,39,Male,Jaipur,Punch EV,1405000,2023-03-23,Social Media,3,Festive Offer,5,No,Low,Converted,1418756.8
+TATACUST1352,51,Female,Bengaluru,Punch EV,1215000,2023-03-28,Google Search,4,Referral Program,4,Yes,Medium,Lost,0.0
+TATACUST1353,45,Female,Bengaluru,Nexon EV,1885000,2023-08-13,Social Media,25,Exchange Bonus,1,Yes,High,Converted,1914224.95
+TATACUST1354,35,Female,Bengaluru,Harrier EV,2260000,2023-01-16,Social Media,14,Green Mobility Drive,4,No,Medium,Contacted,0.0
+TATACUST1355,36,Male,Delhi,Nexon EV,1475000,2023-12-24,Google Search,19,Festive Offer,2,No,Medium,New,0.0
+TATACUST1356,27,Male,Bengaluru,Punch EV,1420000,2023-06-12,Dealership Visit,3,Referral Program,7,No,Low,Converted,1459888.46
+TATACUST1357,36,Male,Bengaluru,Nexon EV,1685000,2024-09-01,Print Media,23,Referral Program,3,No,Medium,New,0.0
+TATACUST1358,34,Male,Mumbai,Tiago EV,1095000,2024-10-29,TV Commercial,3,Green Mobility Drive,9,Yes,Medium,Lost,0.0
+TATACUST1359,40,Male,Chennai,Tiago EV,935000,2024-05-28,Social Media,6,Festive Offer,2,No,Low,Converted,947180.35
+TATACUST1360,29,Female,Bengaluru,Tiago EV,860000,2023-12-16,TV Commercial,14,Exchange Bonus,11,No,Medium,Lost,0.0
+TATACUST1361,41,Male,Chennai,Punch EV,1475000,2024-11-11,TV Commercial,4,Festive Offer,6,No,Low,Lost,0.0
+TATACUST1362,51,Male,Ahmedabad,Tigor EV,1320000,2024-04-08,Dealership Visit,5,Festive Offer,6,Yes,Medium,Converted,1346205.75
+TATACUST1363,35,Male,Delhi,Nexon EV,1545000,2024-01-10,Print Media,2,Festive Offer,10,No,Medium,Converted,1562435.59
+TATACUST1364,40,Male,Hyderabad,Curvv EV,2075000,2023-04-02,Print Media,4,Festive Offer,10,Yes,High,Converted,2087075.93
+TATACUST1365,43,Female,Bengaluru,Tigor EV,1315000,2023-06-30,Google Search,8,Green Mobility Drive,8,Yes,High,Converted,1319655.82
+TATACUST1366,33,Male,Ahmedabad,Tigor EV,1325000,2023-10-28,Dealership Visit,10,New Launch Blitz,4,Yes,Medium,Converted,1357919.93
+TATACUST1367,39,Female,Delhi,Tiago EV,960000,2024-10-21,Social Media,12,Exchange Bonus,7,No,Medium,Lost,0.0
+TATACUST1368,37,Male,Hyderabad,Tiago EV,1090000,2023-07-08,Email Campaign,9,Festive Offer,4,No,Low,Lost,0.0
+TATACUST1369,37,Other,Pune,Tigor EV,1355000,2023-11-10,Social Media,10,Green Mobility Drive,14,No,High,Contacted,0.0
+TATACUST1370,29,Female,Delhi,Punch EV,1420000,2024-05-07,Social Media,4,Green Mobility Drive,4,No,Low,Lost,0.0
+TATACUST1371,37,Male,Mumbai,Curvv EV,1795000,2023-05-08,Social Media,4,Festive Offer,2,Yes,Medium,New,0.0
+TATACUST1372,41,Female,Hyderabad,Tiago EV,1095000,2024-06-02,Dealership Visit,25,New Launch Blitz,6,No,Medium,New,0.0
+TATACUST1373,50,Male,Hyderabad,Tiago EV,1035000,2024-03-01,Google Search,2,Green Mobility Drive,3,No,Low,Contacted,0.0
+TATACUST1374,46,Female,Delhi,Punch EV,1415000,2024-07-12,Google Search,10,New Launch Blitz,12,Yes,High,Converted,1417232.1
+TATACUST1375,57,Male,Hyderabad,Punch EV,1260000,2024-07-18,Email Campaign,3,Green Mobility Drive,8,No,Low,Contacted,0.0
+TATACUST1376,29,Female,Bengaluru,Tiago EV,1105000,2023-07-06,Print Media,12,Exchange Bonus,5,No,Medium,Contacted,0.0
+TATACUST1377,45,Female,Hyderabad,Nexon EV,1810000,2024-07-03,Google Search,12,Festive Offer,7,No,Medium,Converted,1831464.51
+TATACUST1378,38,Female,Delhi,Tiago EV,840000,2024-03-28,Social Media,4,Green Mobility Drive,8,Yes,Medium,Converted,876902.78
+TATACUST1379,57,Female,Kolkata,Nexon EV,1655000,2024-04-15,Print Media,4,Festive Offer,10,Yes,High,Converted,1676193.03
+TATACUST1380,29,Male,Delhi,Punch EV,1500000,2024-07-18,Print Media,11,Referral Program,5,Yes,Medium,Converted,1515067.82
+TATACUST1381,29,Male,Bengaluru,Tiago EV,815000,2023-08-12,TV Commercial,7,Referral Program,4,Yes,Medium,Converted,843089.21
+TATACUST1382,31,Male,Mumbai,Punch EV,1530000,2023-06-03,TV Commercial,5,Referral Program,5,Yes,Medium,New,0.0
+TATACUST1383,21,Male,Mumbai,Nexon EV,1790000,2024-07-13,Social Media,12,Exchange Bonus,2,Yes,Medium,Converted,1822930.22
+TATACUST1384,32,Female,Pune,Punch EV,1385000,2023-12-17,Dealership Visit,6,Referral Program,7,Yes,Medium,Converted,1409517.03
+TATACUST1385,29,Male,Delhi,Nexon EV,1585000,2023-05-27,TV Commercial,13,Festive Offer,11,Yes,High,Converted,1626468.78
+TATACUST1386,38,Other,Ahmedabad,Tiago EV,885000,2024-07-29,Google Search,7,Green Mobility Drive,11,Yes,High,Converted,893485.89
+TATACUST1387,40,Female,Mumbai,Nexon EV,1920000,2023-12-15,Social Media,2,Exchange Bonus,5,No,Low,Contacted,0.0
+TATACUST1388,54,Female,Bengaluru,Punch EV,1235000,2023-07-01,Print Media,12,Exchange Bonus,3,No,Low,Lost,0.0
+TATACUST1389,46,Male,Delhi,Nexon EV,1835000,2024-09-28,TV Commercial,6,Exchange Bonus,4,No,Low,New,0.0
+TATACUST1390,31,Female,Mumbai,Tigor EV,1300000,2023-06-28,Social Media,6,Festive Offer,13,No,Medium,Converted,1315055.26
+TATACUST1391,28,Female,Mumbai,Curvv EV,1810000,2023-02-08,TV Commercial,7,Festive Offer,12,Yes,High,Contacted,0.0
+TATACUST1392,41,Male,Bengaluru,Punch EV,1105000,2023-01-03,TV Commercial,4,New Launch Blitz,6,Yes,Medium,Lost,0.0
+TATACUST1393,24,Female,Bengaluru,Tiago EV,990000,2023-03-05,TV Commercial,6,Exchange Bonus,9,Yes,High,Converted,993845.24
+TATACUST1394,54,Female,Bengaluru,Tiago EV,1140000,2023-01-29,Dealership Visit,3,Festive Offer,3,No,Low,Contacted,0.0
+TATACUST1395,48,Male,Pune,Nexon EV,1635000,2024-01-07,TV Commercial,6,Referral Program,10,No,Medium,New,0.0
+TATACUST1396,32,Male,Pune,Tigor EV,1295000,2024-06-06,Email Campaign,5,New Launch Blitz,2,No,Low,Lost,0.0
+TATACUST1397,21,Male,Mumbai,Nexon EV,1620000,2023-04-07,Social Media,12,Festive Offer,7,Yes,High,Converted,1647944.92
+TATACUST1398,49,Male,Bengaluru,Punch EV,1335000,2024-03-17,Social Media,9,Referral Program,6,No,Medium,New,0.0
+TATACUST1399,35,Male,Jaipur,Punch EV,1295000,2023-07-22,Social Media,8,New Launch Blitz,6,Yes,Medium,Converted,1330622.6
+TATACUST1400,48,Male,Pune,Tiago EV,1105000,2024-02-15,Dealership Visit,13,New Launch Blitz,8,Yes,High,Converted,1132112.73
+TATACUST1401,21,Male,Hyderabad,Harrier EV,2375000,2023-01-21,TV Commercial,13,New Launch Blitz,8,No,Medium,Contacted,0.0
+TATACUST1402,31,Male,Delhi,Nexon EV,1705000,2024-07-04,Print Media,7,Green Mobility Drive,7,No,Medium,Lost,0.0
+TATACUST1403,37,Female,Chennai,Curvv EV,1810000,2023-04-12,Dealership Visit,8,Green Mobility Drive,4,No,Low,Contacted,0.0
+TATACUST1404,37,Male,Chennai,Punch EV,1540000,2023-02-15,Google Search,7,Festive Offer,4,Yes,Medium,Lost,0.0
+TATACUST1405,32,Female,Pune,Nexon EV,1575000,2023-03-07,Email Campaign,18,Festive Offer,5,No,Medium,Converted,1594237.28
+TATACUST1406,42,Male,Kochi,Nexon EV,1485000,2024-08-25,Social Media,2,Green Mobility Drive,3,No,Low,Contacted,0.0
+TATACUST1407,26,Male,Mumbai,Punch EV,1395000,2023-06-13,Print Media,7,Green Mobility Drive,16,No,High,Contacted,0.0
+TATACUST1408,35,Male,Mumbai,Curvv EV,2015000,2023-04-21,Google Search,11,Festive Offer,3,No,Low,Contacted,0.0
+TATACUST1409,38,Male,Chennai,Harrier EV,2345000,2023-12-04,TV Commercial,2,Green Mobility Drive,5,No,Low,New,0.0
+TATACUST1410,41,Male,Chennai,Curvv EV,1940000,2023-05-03,Dealership Visit,3,Festive Offer,8,No,Low,Converted,1958765.18
+TATACUST1411,43,Female,Mumbai,Nexon EV,1840000,2024-12-05,TV Commercial,7,Referral Program,5,Yes,Medium,Converted,1844011.85
+TATACUST1412,26,Male,Delhi,Punch EV,1185000,2024-03-22,Social Media,8,Festive Offer,10,Yes,High,Converted,1203294.59
+TATACUST1413,22,Female,Mumbai,Punch EV,1470000,2024-09-02,Google Search,13,Exchange Bonus,5,Yes,High,Contacted,0.0
+TATACUST1414,49,Female,Delhi,Harrier EV,2425000,2023-10-18,TV Commercial,13,Green Mobility Drive,5,No,Medium,Converted,2440481.61
+TATACUST1415,40,Male,Chennai,Tiago EV,945000,2024-11-01,Print Media,4,Festive Offer,4,No,Low,Contacted,0.0
+TATACUST1416,29,Male,Pune,Nexon EV,1680000,2024-02-16,Google Search,5,New Launch Blitz,5,Yes,Medium,Contacted,0.0
+TATACUST1417,51,Female,Delhi,Nexon EV,1575000,2024-09-06,Print Media,10,Green Mobility Drive,5,Yes,Medium,Converted,1579979.78
+TATACUST1418,38,Male,Bengaluru,Nexon EV,1825000,2023-10-08,Google Search,4,Green Mobility Drive,9,No,Medium,Contacted,0.0
+TATACUST1419,48,Male,Mumbai,Harrier EV,2380000,2023-02-12,TV Commercial,9,Festive Offer,4,No,Low,Contacted,0.0
+TATACUST1420,37,Other,Delhi,Punch EV,1245000,2024-04-30,Dealership Visit,3,Green Mobility Drive,6,Yes,Medium,Converted,1257022.32
+TATACUST1421,56,Male,Hyderabad,Punch EV,1365000,2024-08-18,TV Commercial,6,Festive Offer,5,Yes,Medium,Converted,1384796.11
+TATACUST1422,53,Female,Kochi,Tiago EV,1150000,2024-12-03,Email Campaign,7,Green Mobility Drive,6,Yes,Medium,Converted,1174872.49
+TATACUST1423,34,Other,Ahmedabad,Punch EV,1295000,2023-02-20,TV Commercial,8,Green Mobility Drive,10,No,Medium,Converted,1337506.73
+TATACUST1424,46,Male,Mumbai,Punch EV,1515000,2023-07-29,TV Commercial,6,Referral Program,6,No,Low,Converted,1521489.19
+TATACUST1425,43,Male,Kolkata,Punch EV,1255000,2023-05-06,Social Media,7,Exchange Bonus,2,No,Low,Lost,0.0
+TATACUST1426,50,Male,Chennai,Curvv EV,1775000,2024-05-06,Google Search,7,Festive Offer,12,No,Medium,Contacted,0.0
+TATACUST1427,27,Male,Chennai,Curvv EV,1840000,2024-05-23,Google Search,5,Festive Offer,11,Yes,High,Converted,1861906.87
+TATACUST1428,43,Male,Bengaluru,Tiago EV,945000,2024-08-03,Dealership Visit,5,Green Mobility Drive,3,Yes,Medium,Converted,936879.65
+TATACUST1429,47,Female,Bengaluru,Punch EV,1200000,2023-09-15,Social Media,5,Festive Offer,8,No,Medium,Contacted,0.0
+TATACUST1430,21,Male,Delhi,Curvv EV,1750000,2023-07-07,Social Media,4,Festive Offer,11,No,Medium,Converted,1763786.17
+TATACUST1431,25,Male,Mumbai,Tiago EV,1120000,2023-08-18,Social Media,9,Referral Program,10,Yes,High,Converted,1128248.7
+TATACUST1432,21,Other,Delhi,Tiago EV,1095000,2023-07-08,Social Media,7,Festive Offer,6,Yes,Medium,Converted,1107157.18
+TATACUST1433,34,Female,Delhi,Tiago EV,1060000,2024-02-19,Google Search,12,Referral Program,7,Yes,High,Converted,1073794.97
+TATACUST1434,43,Female,Bengaluru,Nexon EV,1535000,2023-01-10,Print Media,16,Festive Offer,5,No,Medium,Converted,1549313.13
+TATACUST1435,51,Male,Chennai,Tiago EV,840000,2023-04-24,Dealership Visit,7,New Launch Blitz,5,Yes,Medium,Converted,863141.82
+TATACUST1436,37,Female,Bengaluru,Harrier EV,2225000,2023-03-17,Dealership Visit,4,Exchange Bonus,6,Yes,Medium,Converted,2230732.69
+TATACUST1437,52,Male,Mumbai,Punch EV,1425000,2024-11-06,Dealership Visit,4,Referral Program,8,Yes,Medium,Converted,1455345.32
+TATACUST1438,23,Male,Jaipur,Tigor EV,1365000,2024-05-16,Social Media,9,Festive Offer,5,No,Low,Contacted,0.0
+TATACUST1439,21,Male,Jaipur,Punch EV,1295000,2023-03-26,Print Media,5,Referral Program,2,No,Low,New,0.0
+TATACUST1440,36,Female,Chennai,Punch EV,1155000,2023-02-18,Social Media,4,Referral Program,9,No,Medium,Lost,0.0
+TATACUST1441,40,Male,Kochi,Nexon EV,1705000,2024-05-09,Google Search,8,Exchange Bonus,7,Yes,Medium,Converted,1721448.06
+TATACUST1442,36,Male,Pune,Nexon EV,1625000,2024-11-19,TV Commercial,2,Green Mobility Drive,6,Yes,Medium,New,0.0
+TATACUST1443,21,Male,Jaipur,Nexon EV,1635000,2024-01-22,Social Media,7,Exchange Bonus,10,No,Medium,Converted,1671563.59
+TATACUST1444,36,Male,Mumbai,Tigor EV,1325000,2024-01-24,Dealership Visit,6,Festive Offer,1,No,Low,Contacted,0.0
+TATACUST1445,24,Female,Bengaluru,Curvv EV,2070000,2023-08-06,Google Search,11,Exchange Bonus,4,No,Low,Lost,0.0
+TATACUST1446,43,Female,Delhi,Nexon EV,1505000,2024-12-01,Dealership Visit,3,Referral Program,11,No,Medium,Converted,1500560.31
+TATACUST1447,40,Female,Delhi,Nexon EV,1465000,2023-12-12,Google Search,15,Green Mobility Drive,4,Yes,High,Converted,1477578.35
+TATACUST1448,28,Male,Mumbai,Tiago EV,1145000,2023-08-18,Social Media,12,Festive Offer,5,No,Medium,Lost,0.0
+TATACUST1449,32,Male,Pune,Tiago EV,880000,2023-09-12,Dealership Visit,3,Green Mobility Drive,5,Yes,Medium,Converted,915645.48
+TATACUST1450,26,Male,Chennai,Tiago EV,820000,2023-08-24,Social Media,5,Exchange Bonus,8,Yes,Medium,Converted,858267.74
+TATACUST1451,36,Male,Pune,Nexon EV,1545000,2023-01-26,Google Search,5,Festive Offer,2,No,Low,Contacted,0.0
+TATACUST1452,46,Male,Mumbai,Punch EV,1115000,2024-08-06,Social Media,13,Festive Offer,10,No,Medium,Lost,0.0
+TATACUST1453,27,Female,Chennai,Punch EV,1275000,2023-09-18,TV Commercial,15,Festive Offer,4,No,Medium,Contacted,0.0
+TATACUST1454,41,Male,Hyderabad,Curvv EV,2110000,2023-09-28,TV Commercial,7,Referral Program,6,No,Low,Lost,0.0
+TATACUST1455,31,Male,Bengaluru,Curvv EV,1905000,2023-05-03,Google Search,17,Festive Offer,9,No,Medium,Contacted,0.0
+TATACUST1456,29,Male,Hyderabad,Curvv EV,1950000,2024-10-17,Email Campaign,5,Exchange Bonus,10,Yes,High,Contacted,0.0
+TATACUST1457,35,Male,Delhi,Punch EV,1405000,2023-09-14,Print Media,4,Green Mobility Drive,6,No,Low,Lost,0.0
+TATACUST1458,27,Male,Delhi,Nexon EV,1705000,2024-10-17,Dealership Visit,19,Referral Program,6,No,Medium,New,0.0
+TATACUST1459,31,Other,Kolkata,Punch EV,1485000,2024-02-25,Dealership Visit,14,New Launch Blitz,2,No,Low,Lost,0.0
+TATACUST1460,25,Female,Delhi,Tiago EV,1100000,2023-09-16,Social Media,5,Festive Offer,12,No,Medium,Converted,1111534.2
+TATACUST1461,55,Female,Bengaluru,Tiago EV,800000,2023-02-16,TV Commercial,10,Green Mobility Drive,15,No,High,Lost,0.0
+TATACUST1462,37,Male,Kolkata,Punch EV,1450000,2024-06-08,Social Media,24,Referral Program,12,No,High,Converted,1461283.63
+TATACUST1463,30,Male,Hyderabad,Punch EV,1305000,2023-07-27,Social Media,14,Festive Offer,9,Yes,High,Converted,1324850.9
+TATACUST1464,39,Male,Mumbai,Curvv EV,2195000,2023-11-07,Email Campaign,13,Festive Offer,3,No,Low,New,0.0
+TATACUST1465,35,Male,Mumbai,Tiago EV,970000,2023-05-29,TV Commercial,13,Referral Program,6,Yes,High,Converted,990425.7
+TATACUST1466,34,Female,Mumbai,Nexon EV,1940000,2024-03-13,Google Search,6,New Launch Blitz,6,Yes,Medium,Converted,1939623.97
+TATACUST1467,42,Male,Hyderabad,Tigor EV,1345000,2023-06-04,Google Search,14,Exchange Bonus,2,Yes,Medium,Converted,1373264.3
+TATACUST1468,44,Male,Bengaluru,Punch EV,1210000,2024-11-08,TV Commercial,6,Festive Offer,5,Yes,Medium,Contacted,0.0
+TATACUST1469,31,Male,Mumbai,Punch EV,1340000,2023-03-31,Social Media,17,Green Mobility Drive,2,Yes,Medium,Converted,1360364.88
+TATACUST1470,31,Male,Jaipur,Punch EV,1545000,2024-11-28,Social Media,6,Festive Offer,9,Yes,High,Converted,1577455.65
+TATACUST1471,34,Female,Pune,Nexon EV,1880000,2023-12-24,Social Media,10,Referral Program,4,No,Low,Lost,0.0
+TATACUST1472,21,Male,Delhi,Punch EV,1145000,2023-06-23,Google Search,9,Referral Program,3,No,Low,Converted,1185787.08
+TATACUST1473,22,Male,Bengaluru,Tiago EV,1045000,2023-08-05,TV Commercial,2,Referral Program,4,Yes,Medium,Converted,1085812.59
+TATACUST1474,49,Male,Hyderabad,Tiago EV,920000,2024-03-31,Social Media,5,Festive Offer,5,Yes,Medium,Lost,0.0
+TATACUST1475,52,Male,Mumbai,Tigor EV,1250000,2024-08-31,Dealership Visit,25,Exchange Bonus,7,No,High,Lost,0.0
+TATACUST1476,34,Female,Delhi,Curvv EV,1930000,2024-09-20,Social Media,22,Festive Offer,9,Yes,High,Converted,1969319.62
+TATACUST1477,42,Female,Chennai,Punch EV,1205000,2023-07-18,Dealership Visit,4,Green Mobility Drive,12,Yes,High,Converted,1229318.62
+TATACUST1478,39,Female,Bengaluru,Nexon EV,1860000,2024-04-30,Email Campaign,25,Referral Program,8,Yes,High,Converted,1869354.94
+TATACUST1479,66,Female,Pune,Nexon EV,1620000,2024-06-16,Dealership Visit,14,Festive Offer,7,Yes,High,Converted,1630453.64
+TATACUST1480,47,Male,Bengaluru,Curvv EV,2120000,2023-07-19,Print Media,9,Exchange Bonus,5,No,Low,New,0.0
+TATACUST1481,35,Female,Mumbai,Nexon EV,1450000,2024-01-06,Email Campaign,2,Exchange Bonus,8,Yes,Medium,Converted,1460419.0
+TATACUST1482,27,Male,Mumbai,Tigor EV,1290000,2024-03-23,Google Search,18,New Launch Blitz,13,Yes,High,Converted,1312297.09
+TATACUST1483,21,Male,Bengaluru,Nexon EV,1570000,2023-09-05,Dealership Visit,9,Referral Program,8,Yes,High,Converted,1583189.11
+TATACUST1484,38,Female,Delhi,Curvv EV,1855000,2023-09-21,Print Media,14,Referral Program,3,No,Low,Lost,0.0
+TATACUST1485,29,Male,Mumbai,Punch EV,1130000,2023-02-27,Google Search,14,Green Mobility Drive,11,No,Medium,Converted,1151886.13
+TATACUST1486,23,Female,Ahmedabad,Punch EV,1185000,2023-10-29,Social Media,15,Festive Offer,3,Yes,Medium,Converted,1185278.04
+TATACUST1487,30,Male,Kochi,Tiago EV,995000,2023-01-31,Email Campaign,9,Green Mobility Drive,4,Yes,Medium,Contacted,0.0
+TATACUST1488,26,Female,Chennai,Nexon EV,1595000,2024-05-12,Dealership Visit,5,Green Mobility Drive,11,Yes,High,Converted,1602558.74
+TATACUST1489,53,Female,Ahmedabad,Nexon EV,1660000,2023-09-06,Social Media,6,Exchange Bonus,15,No,Medium,Contacted,0.0
+TATACUST1490,45,Female,Delhi,Tiago EV,930000,2024-08-27,Google Search,6,Exchange Bonus,12,Yes,High,New,0.0
+TATACUST1491,36,Female,Jaipur,Tigor EV,1360000,2023-09-28,Dealership Visit,4,Green Mobility Drive,13,Yes,High,Converted,1390241.11
+TATACUST1492,51,Female,Delhi,Punch EV,1505000,2024-08-28,TV Commercial,8,Festive Offer,7,Yes,Medium,Converted,1558419.11
+TATACUST1493,37,Male,Jaipur,Tiago EV,970000,2024-10-27,TV Commercial,11,Festive Offer,9,Yes,High,Converted,992409.33
+TATACUST1494,28,Male,Kochi,Harrier EV,2315000,2024-01-29,Dealership Visit,14,Exchange Bonus,9,Yes,High,Converted,2325583.38
+TATACUST1495,51,Male,Hyderabad,Tiago EV,835000,2024-05-16,TV Commercial,5,Exchange Bonus,10,Yes,High,Converted,861158.02
+TATACUST1496,42,Female,Kochi,Tiago EV,1135000,2024-08-14,TV Commercial,8,Exchange Bonus,7,Yes,Medium,Converted,1168169.11
+TATACUST1497,27,Male,Pune,Nexon EV,1480000,2023-03-25,Dealership Visit,5,Green Mobility Drive,6,Yes,Medium,Converted,1505767.49
+TATACUST1498,35,Female,Delhi,Nexon EV,1600000,2023-12-31,Dealership Visit,2,Festive Offer,3,No,Low,New,0.0
+TATACUST1499,28,Male,Bengaluru,Tiago EV,905000,2024-07-02,TV Commercial,4,Referral Program,12,Yes,High,Converted,925789.97
+TATACUST1500,23,Male,Pune,Nexon EV,1610000,2023-12-08,Google Search,9,Referral Program,3,No,Low,Contacted,0.0
+TATACUST1501,45,Female,Mumbai,Tigor EV,1270000,2024-02-11,Google Search,2,Green Mobility Drive,7,No,Low,Contacted,0.0
+TATACUST1502,55,Male,Pune,Tiago EV,1075000,2024-02-29,Email Campaign,9,Exchange Bonus,1,No,Low,Lost,0.0
+TATACUST1503,23,Male,Kochi,Tiago EV,840000,2023-04-03,Social Media,6,Green Mobility Drive,10,No,Medium,Lost,0.0
+TATACUST1504,42,Male,Delhi,Tigor EV,1330000,2024-09-05,Social Media,15,Exchange Bonus,3,Yes,Medium,Lost,0.0
+TATACUST1505,30,Female,Chennai,Punch EV,1155000,2024-02-16,Google Search,15,Referral Program,7,Yes,High,Converted,1168611.97
+TATACUST1506,32,Female,Kolkata,Curvv EV,1780000,2024-03-07,Print Media,24,Exchange Bonus,5,No,Medium,Lost,0.0
+TATACUST1507,31,Male,Jaipur,Nexon EV,1905000,2024-11-08,Social Media,15,Green Mobility Drive,3,No,Medium,Contacted,0.0
+TATACUST1508,28,Male,Jaipur,Harrier EV,2265000,2023-06-08,Social Media,20,Green Mobility Drive,8,No,Medium,Lost,0.0
+TATACUST1509,37,Male,Pune,Punch EV,1470000,2023-01-14,Social Media,15,Exchange Bonus,5,Yes,High,Converted,1502493.56
+TATACUST1510,29,Female,Kochi,Harrier EV,2390000,2024-01-08,Dealership Visit,9,Exchange Bonus,10,Yes,High,Converted,2418891.88
+TATACUST1511,39,Female,Chennai,Punch EV,1135000,2023-08-13,Social Media,4,Exchange Bonus,3,No,Low,New,0.0
+TATACUST1512,36,Male,Mumbai,Punch EV,1530000,2024-05-19,Google Search,6,Exchange Bonus,6,Yes,Medium,Converted,1547503.78
+TATACUST1513,34,Male,Bengaluru,Tiago EV,885000,2023-03-14,Google Search,4,Festive Offer,11,No,Medium,Lost,0.0
+TATACUST1514,28,Male,Hyderabad,Tiago EV,1100000,2023-09-06,Print Media,8,New Launch Blitz,9,Yes,High,Lost,0.0
+TATACUST1515,31,Female,Delhi,Nexon EV,1535000,2024-05-25,Google Search,8,Referral Program,10,Yes,High,Converted,1539024.24
+TATACUST1516,44,Female,Hyderabad,Punch EV,1485000,2024-08-25,Social Media,14,Green Mobility Drive,10,Yes,High,Converted,1511976.73
+TATACUST1517,41,Male,Hyderabad,Punch EV,1105000,2023-08-04,TV Commercial,21,Exchange Bonus,8,No,Medium,Lost,0.0
+TATACUST1518,27,Male,Mumbai,Nexon EV,1705000,2024-08-24,Email Campaign,6,Festive Offer,5,No,Low,Lost,0.0
+TATACUST1519,37,Male,Pune,Punch EV,1445000,2024-06-24,TV Commercial,9,Festive Offer,8,No,Medium,Lost,0.0
+TATACUST1520,44,Female,Chennai,Tigor EV,1365000,2023-08-08,Email Campaign,25,Festive Offer,4,No,Medium,Lost,0.0
+TATACUST1521,21,Male,Bengaluru,Punch EV,1510000,2024-12-27,Print Media,4,Exchange Bonus,5,Yes,Medium,Converted,1538287.81
+TATACUST1522,42,Female,Mumbai,Nexon EV,1860000,2023-08-09,Social Media,11,Referral Program,5,Yes,Medium,Converted,1903380.38
+TATACUST1523,30,Female,Mumbai,Nexon EV,1895000,2024-01-24,TV Commercial,4,Exchange Bonus,9,Yes,Medium,Converted,1938924.0
+TATACUST1524,42,Male,Bengaluru,Punch EV,1190000,2024-07-07,Google Search,10,Green Mobility Drive,4,No,Low,Lost,0.0
+TATACUST1525,29,Male,Kolkata,Punch EV,1225000,2024-10-08,TV Commercial,5,Green Mobility Drive,3,No,Low,Contacted,0.0
+TATACUST1526,21,Male,Delhi,Punch EV,1230000,2023-02-11,Social Media,15,Festive Offer,5,No,Medium,Contacted,0.0
+TATACUST1527,21,Female,Hyderabad,Nexon EV,1640000,2024-11-06,Google Search,9,Festive Offer,2,Yes,Medium,Converted,1672838.71
+TATACUST1528,37,Female,Delhi,Punch EV,1275000,2023-10-10,Email Campaign,3,Referral Program,16,Yes,High,Converted,1283544.04
+TATACUST1529,39,Female,Delhi,Tiago EV,990000,2023-02-27,Social Media,3,New Launch Blitz,7,Yes,Medium,New,0.0
+TATACUST1530,28,Male,Ahmedabad,Tiago EV,855000,2024-06-20,Print Media,6,Green Mobility Drive,6,Yes,Medium,Converted,896825.07
+TATACUST1531,43,Male,Hyderabad,Punch EV,1410000,2023-03-14,Social Media,24,Exchange Bonus,9,No,High,Converted,1431083.4
+TATACUST1532,21,Female,Mumbai,Punch EV,1175000,2023-05-09,Social Media,13,New Launch Blitz,4,No,Medium,Contacted,0.0
+TATACUST1533,36,Female,Bengaluru,Curvv EV,1890000,2024-08-21,Print Media,8,Festive Offer,11,No,Medium,Converted,1925200.83
+TATACUST1534,25,Male,Mumbai,Punch EV,1325000,2024-03-01,TV Commercial,7,Referral Program,6,No,Low,Lost,0.0
+TATACUST1535,30,Other,Bengaluru,Punch EV,1455000,2024-10-26,Dealership Visit,8,Exchange Bonus,4,No,Low,Contacted,0.0
+TATACUST1536,37,Female,Hyderabad,Nexon EV,1820000,2024-11-24,Social Media,13,Exchange Bonus,2,No,Low,Contacted,0.0
+TATACUST1537,28,Female,Mumbai,Nexon EV,1770000,2023-05-05,TV Commercial,14,Festive Offer,5,No,Medium,New,0.0
+TATACUST1538,33,Female,Delhi,Punch EV,1170000,2023-03-08,Dealership Visit,7,Exchange Bonus,4,No,Low,Lost,0.0
+TATACUST1539,46,Female,Bengaluru,Punch EV,1345000,2023-01-06,TV Commercial,10,Referral Program,5,Yes,Medium,Lost,0.0
+TATACUST1540,31,Female,Kolkata,Punch EV,1140000,2024-09-28,Google Search,9,Festive Offer,6,Yes,Medium,Converted,1166257.29
+TATACUST1541,44,Male,Kochi,Curvv EV,1920000,2023-11-10,Email Campaign,22,Green Mobility Drive,5,No,Medium,Lost,0.0
+TATACUST1542,26,Male,Mumbai,Tiago EV,945000,2023-11-22,TV Commercial,21,Festive Offer,4,Yes,High,Lost,0.0
+TATACUST1543,42,Female,Chennai,Curvv EV,1765000,2024-07-18,Print Media,14,Referral Program,8,No,Medium,Contacted,0.0
+TATACUST1544,50,Male,Bengaluru,Nexon EV,1585000,2024-07-31,Dealership Visit,9,Green Mobility Drive,3,No,Low,Converted,1596553.72
+TATACUST1545,21,Male,Bengaluru,Tigor EV,1370000,2024-05-20,Dealership Visit,6,Referral Program,5,Yes,Medium,Converted,1384005.4
+TATACUST1546,29,Male,Chennai,Tiago EV,1135000,2023-03-23,Social Media,14,Green Mobility Drive,5,No,Medium,Lost,0.0
+TATACUST1547,42,Male,Kolkata,Punch EV,1260000,2024-08-21,Google Search,8,Festive Offer,4,Yes,Medium,Converted,1263033.89
+TATACUST1548,35,Female,Jaipur,Punch EV,1120000,2023-01-02,Print Media,6,Festive Offer,3,No,Low,New,0.0
+TATACUST1549,40,Female,Pune,Tiago EV,860000,2023-07-23,Social Media,4,Festive Offer,6,Yes,Medium,Lost,0.0
+TATACUST1550,31,Male,Bengaluru,Nexon EV,1645000,2024-10-23,Social Media,16,Festive Offer,5,No,Medium,Converted,1661657.67
+TATACUST1551,37,Male,Chennai,Harrier EV,2530000,2024-02-08,Google Search,4,Exchange Bonus,2,No,Low,Contacted,0.0
+TATACUST1552,35,Male,Delhi,Tigor EV,1265000,2023-04-13,Social Media,5,Festive Offer,4,No,Low,Contacted,0.0
+TATACUST1553,48,Female,Pune,Nexon EV,1830000,2024-06-19,Email Campaign,9,Green Mobility Drive,3,Yes,Medium,Lost,0.0
+TATACUST1554,39,Female,Bengaluru,Tiago EV,835000,2024-01-03,Print Media,5,Green Mobility Drive,7,Yes,Medium,Converted,862667.9
+TATACUST1555,40,Male,Hyderabad,Punch EV,1540000,2023-07-31,Google Search,3,Exchange Bonus,3,No,Low,Lost,0.0
+TATACUST1556,33,Female,Delhi,Tiago EV,935000,2024-07-30,Social Media,15,Exchange Bonus,8,No,Medium,Contacted,0.0
+TATACUST1557,32,Female,Delhi,Nexon EV,1835000,2023-07-28,Dealership Visit,13,Exchange Bonus,11,No,Medium,Converted,1848296.51
+TATACUST1558,32,Female,Kolkata,Curvv EV,1905000,2023-04-27,TV Commercial,6,New Launch Blitz,9,No,Medium,Converted,1918700.14
+TATACUST1559,40,Female,Mumbai,Nexon EV,1765000,2024-09-19,Email Campaign,16,Festive Offer,4,No,Medium,Contacted,0.0
+TATACUST1560,33,Male,Bengaluru,Tiago EV,865000,2024-04-22,TV Commercial,12,Green Mobility Drive,5,Yes,Medium,Converted,893765.34
+TATACUST1561,39,Female,Delhi,Punch EV,1165000,2023-04-15,Google Search,8,Green Mobility Drive,11,No,Medium,New,0.0
+TATACUST1562,56,Male,Mumbai,Tigor EV,1365000,2024-05-09,Google Search,13,Green Mobility Drive,10,No,Medium,Contacted,0.0
+TATACUST1563,45,Female,Mumbai,Punch EV,1510000,2023-02-15,Email Campaign,24,Exchange Bonus,8,Yes,High,Converted,1507366.93
+TATACUST1564,33,Female,Mumbai,Curvv EV,2150000,2023-11-27,Dealership Visit,8,Green Mobility Drive,6,Yes,Medium,Converted,2161859.66
+TATACUST1565,48,Female,Ahmedabad,Nexon EV,1760000,2023-08-04,TV Commercial,5,Green Mobility Drive,6,No,Low,Lost,0.0
+TATACUST1566,33,Female,Delhi,Nexon EV,1855000,2024-05-06,Social Media,21,Green Mobility Drive,5,No,Medium,Converted,1852488.33
+TATACUST1567,21,Male,Jaipur,Punch EV,1130000,2024-03-24,Dealership Visit,8,New Launch Blitz,9,Yes,High,Converted,1165148.24
+TATACUST1568,27,Male,Pune,Punch EV,1250000,2024-06-19,Dealership Visit,4,New Launch Blitz,9,Yes,Medium,Converted,1258918.54
+TATACUST1569,21,Other,Bengaluru,Tiago EV,910000,2024-05-25,Google Search,10,Green Mobility Drive,5,Yes,Medium,Lost,0.0
+TATACUST1570,33,Female,Pune,Punch EV,1385000,2024-04-02,Google Search,9,Festive Offer,9,Yes,High,Converted,1405743.47
+TATACUST1571,37,Male,Pune,Punch EV,1260000,2024-06-30,Google Search,13,Referral Program,5,No,Medium,Lost,0.0
+TATACUST1572,52,Male,Chennai,Nexon EV,1525000,2024-06-19,Social Media,9,New Launch Blitz,9,No,Medium,Lost,0.0
+TATACUST1573,40,Male,Delhi,Nexon EV,1745000,2024-06-23,Social Media,3,Festive Offer,8,No,Low,New,0.0
+TATACUST1574,34,Female,Bengaluru,Tiago EV,1085000,2024-04-28,Google Search,10,Green Mobility Drive,5,No,Low,Lost,0.0
+TATACUST1575,44,Female,Kolkata,Punch EV,1270000,2023-01-16,TV Commercial,9,New Launch Blitz,4,No,Low,Contacted,0.0
+TATACUST1576,21,Male,Jaipur,Tiago EV,845000,2024-07-24,Social Media,4,Exchange Bonus,5,No,Low,Contacted,0.0
+TATACUST1577,39,Male,Kolkata,Tiago EV,870000,2023-08-31,Google Search,8,Festive Offer,7,No,Medium,Lost,0.0
+TATACUST1578,44,Female,Bengaluru,Nexon EV,1570000,2023-07-26,Print Media,13,Exchange Bonus,8,No,Medium,New,0.0
+TATACUST1579,22,Female,Chennai,Tiago EV,905000,2023-09-28,TV Commercial,4,New Launch Blitz,7,No,Low,Lost,0.0
+TATACUST1580,47,Male,Bengaluru,Punch EV,1390000,2024-12-05,TV Commercial,10,Referral Program,8,No,Medium,Lost,0.0
+TATACUST1581,40,Female,Bengaluru,Tiago EV,1010000,2024-12-30,Google Search,4,Referral Program,2,No,Low,Lost,0.0
+TATACUST1582,33,Male,Delhi,Curvv EV,2060000,2023-04-25,TV Commercial,5,Referral Program,5,Yes,Medium,Lost,0.0
+TATACUST1583,43,Male,Pune,Tigor EV,1295000,2024-08-02,Social Media,5,Festive Offer,4,No,Low,Lost,0.0
+TATACUST1584,58,Male,Delhi,Punch EV,1470000,2023-10-26,Dealership Visit,4,Referral Program,3,No,Low,Lost,0.0
+TATACUST1585,38,Female,Delhi,Tigor EV,1275000,2024-04-27,Social Media,15,Festive Offer,7,No,Medium,Lost,0.0
+TATACUST1586,39,Female,Ahmedabad,Nexon EV,1685000,2024-02-01,TV Commercial,6,New Launch Blitz,2,No,Low,Lost,0.0
+TATACUST1587,32,Female,Delhi,Harrier EV,2480000,2024-01-29,Google Search,11,Green Mobility Drive,14,Yes,High,Converted,2509079.98
+TATACUST1588,28,Female,Mumbai,Punch EV,1180000,2023-03-16,Dealership Visit,4,Referral Program,6,Yes,Medium,Lost,0.0
+TATACUST1589,44,Male,Mumbai,Curvv EV,1800000,2024-04-26,TV Commercial,23,Festive Offer,6,No,Medium,New,0.0
+TATACUST1590,28,Male,Jaipur,Curvv EV,2145000,2023-04-13,Google Search,9,Green Mobility Drive,10,No,Medium,New,0.0
+TATACUST1591,37,Male,Bengaluru,Curvv EV,1905000,2023-10-24,Social Media,9,Festive Offer,2,Yes,Medium,Lost,0.0
+TATACUST1592,32,Male,Bengaluru,Nexon EV,1790000,2023-06-27,TV Commercial,4,Exchange Bonus,6,No,Low,Lost,0.0
+TATACUST1593,41,Female,Chennai,Nexon EV,1460000,2023-08-03,Email Campaign,5,Referral Program,6,No,Low,New,0.0
+TATACUST1594,40,Other,Ahmedabad,Punch EV,1410000,2023-11-11,Print Media,3,Exchange Bonus,5,Yes,Medium,Contacted,0.0
+TATACUST1595,46,Male,Delhi,Nexon EV,1605000,2023-02-08,Social Media,19,Green Mobility Drive,15,No,High,Converted,1626603.84
+TATACUST1596,32,Male,Hyderabad,Tigor EV,1255000,2023-09-16,Google Search,6,Festive Offer,15,Yes,High,Converted,1301261.13
+TATACUST1597,34,Female,Chennai,Nexon EV,1755000,2024-12-16,Email Campaign,11,New Launch Blitz,3,No,Low,Lost,0.0
+TATACUST1598,27,Male,Hyderabad,Punch EV,1205000,2023-01-07,Google Search,10,Exchange Bonus,7,No,Medium,Contacted,0.0
+TATACUST1599,32,Male,Mumbai,Nexon EV,1640000,2023-02-18,TV Commercial,6,Referral Program,5,Yes,Medium,Converted,1682396.74
+TATACUST1600,40,Female,Ahmedabad,Nexon EV,1490000,2024-06-21,Print Media,12,Referral Program,7,No,Medium,Contacted,0.0
+TATACUST1601,44,Female,Pune,Tiago EV,850000,2023-06-10,Print Media,10,Referral Program,8,No,Medium,Converted,868939.88
+TATACUST1602,28,Male,Delhi,Curvv EV,1885000,2023-06-25,Google Search,11,Green Mobility Drive,2,No,Low,Contacted,0.0
+TATACUST1603,45,Male,Bengaluru,Tigor EV,1260000,2024-08-13,Google Search,7,Referral Program,11,Yes,High,Converted,1309883.99
+TATACUST1604,49,Female,Mumbai,Curvv EV,2160000,2023-01-02,Google Search,5,Exchange Bonus,7,Yes,Medium,Lost,0.0
+TATACUST1605,40,Male,Mumbai,Punch EV,1100000,2024-03-30,Dealership Visit,5,Referral Program,7,Yes,Medium,Converted,1101959.76
+TATACUST1606,54,Male,Chennai,Punch EV,1315000,2024-10-05,Google Search,14,Referral Program,2,Yes,Medium,Converted,1337416.2
+TATACUST1607,29,Female,Mumbai,Curvv EV,1805000,2023-10-03,Social Media,7,Festive Offer,8,No,Medium,Lost,0.0
+TATACUST1608,25,Male,Bengaluru,Punch EV,1235000,2024-05-12,Google Search,8,Green Mobility Drive,11,Yes,High,Converted,1269208.47
+TATACUST1609,21,Female,Pune,Curvv EV,2165000,2024-09-20,Social Media,19,Festive Offer,13,No,High,Converted,2173654.64
+TATACUST1610,51,Male,Mumbai,Punch EV,1170000,2024-11-06,Dealership Visit,3,Festive Offer,4,No,Low,Lost,0.0
+TATACUST1611,43,Female,Kochi,Tigor EV,1370000,2023-01-28,TV Commercial,14,Exchange Bonus,8,No,Medium,Lost,0.0
+TATACUST1612,36,Male,Delhi,Punch EV,1190000,2023-11-29,Google Search,25,Referral Program,21,No,High,Converted,1227610.75
+TATACUST1613,39,Male,Delhi,Tigor EV,1340000,2023-01-01,Google Search,18,Festive Offer,6,Yes,High,Converted,1363543.07
+TATACUST1614,26,Male,Delhi,Punch EV,1345000,2023-07-07,Print Media,14,Green Mobility Drive,8,No,Medium,Lost,0.0
+TATACUST1615,60,Male,Delhi,Tiago EV,1110000,2023-02-25,Social Media,4,New Launch Blitz,8,No,Low,Contacted,0.0
+TATACUST1616,38,Female,Mumbai,Punch EV,1350000,2024-06-30,Dealership Visit,4,Referral Program,5,Yes,Medium,Lost,0.0
+TATACUST1617,38,Other,Hyderabad,Tiago EV,985000,2023-04-22,Print Media,13,Green Mobility Drive,3,Yes,Medium,Lost,0.0
+TATACUST1618,43,Male,Jaipur,Harrier EV,2270000,2023-11-06,Google Search,5,Referral Program,8,No,Medium,Converted,2266870.41
+TATACUST1619,41,Male,Delhi,Harrier EV,2255000,2023-02-05,TV Commercial,6,Green Mobility Drive,3,Yes,Medium,Converted,2246933.3
+TATACUST1620,39,Female,Hyderabad,Punch EV,1510000,2024-03-14,Email Campaign,14,Festive Offer,3,No,Low,New,0.0
+TATACUST1621,29,Female,Chennai,Nexon EV,1615000,2024-12-29,Social Media,7,Festive Offer,5,No,Low,Lost,0.0
+TATACUST1622,41,Female,Ahmedabad,Punch EV,1265000,2024-08-14,TV Commercial,17,Festive Offer,7,No,Medium,Contacted,0.0
+TATACUST1623,54,Male,Bengaluru,Nexon EV,1830000,2024-08-17,Google Search,13,Green Mobility Drive,10,No,Medium,Contacted,0.0
+TATACUST1624,49,Male,Delhi,Nexon EV,1620000,2024-07-30,Social Media,13,New Launch Blitz,9,Yes,High,Lost,0.0
+TATACUST1625,52,Female,Delhi,Harrier EV,2535000,2023-11-21,Dealership Visit,14,Referral Program,9,No,Medium,Lost,0.0
+TATACUST1626,32,Male,Hyderabad,Punch EV,1430000,2024-10-01,Print Media,18,Green Mobility Drive,7,No,Medium,Converted,1433235.61
+TATACUST1627,27,Female,Chennai,Nexon EV,1750000,2023-11-03,Dealership Visit,13,Green Mobility Drive,2,Yes,Medium,Lost,0.0
+TATACUST1628,35,Male,Delhi,Punch EV,1495000,2024-06-17,Social Media,9,Festive Offer,6,No,Medium,Converted,1487376.55
+TATACUST1629,37,Female,Bengaluru,Harrier EV,2215000,2024-12-28,Social Media,4,Exchange Bonus,6,No,Low,New,0.0
+TATACUST1630,47,Male,Kolkata,Tiago EV,890000,2024-09-10,TV Commercial,18,Referral Program,5,Yes,High,Lost,0.0
+TATACUST1631,21,Female,Chennai,Nexon EV,1680000,2023-04-19,Social Media,14,Festive Offer,13,No,High,Converted,1714291.93
+TATACUST1632,51,Male,Kochi,Nexon EV,1560000,2024-01-07,TV Commercial,6,Festive Offer,15,Yes,High,Converted,1567696.14
+TATACUST1633,35,Female,Chennai,Nexon EV,1820000,2023-12-23,TV Commercial,3,Exchange Bonus,7,No,Low,Lost,0.0
+TATACUST1634,32,Male,Bengaluru,Tiago EV,1120000,2023-06-30,TV Commercial,8,Exchange Bonus,4,Yes,Medium,Lost,0.0
+TATACUST1635,27,Male,Pune,Curvv EV,1940000,2023-12-22,TV Commercial,2,Green Mobility Drive,2,No,Low,Contacted,0.0
+TATACUST1636,21,Male,Hyderabad,Tiago EV,920000,2024-11-06,Google Search,20,Exchange Bonus,5,No,Medium,Converted,946673.1
+TATACUST1637,44,Male,Mumbai,Nexon EV,1930000,2023-03-09,Social Media,23,Exchange Bonus,9,No,High,Converted,1931139.09
+TATACUST1638,37,Female,Pune,Punch EV,1300000,2023-10-19,Google Search,3,Festive Offer,4,No,Low,Converted,1314023.11
+TATACUST1639,24,Female,Hyderabad,Punch EV,1320000,2024-11-22,TV Commercial,9,Green Mobility Drive,3,No,Low,Lost,0.0
+TATACUST1640,24,Female,Mumbai,Tigor EV,1295000,2023-06-30,TV Commercial,5,Green Mobility Drive,4,Yes,Medium,Lost,0.0
+TATACUST1641,33,Male,Chennai,Punch EV,1510000,2024-04-10,Dealership Visit,11,New Launch Blitz,5,Yes,Medium,Converted,1534897.08
+TATACUST1642,52,Female,Pune,Tiago EV,1000000,2024-03-09,Dealership Visit,6,New Launch Blitz,12,Yes,High,New,0.0
+TATACUST1643,34,Male,Jaipur,Tiago EV,1065000,2024-04-08,Email Campaign,9,New Launch Blitz,8,Yes,High,Converted,1093174.93
+TATACUST1644,22,Male,Mumbai,Punch EV,1465000,2024-11-11,Google Search,7,Exchange Bonus,2,Yes,Medium,Contacted,0.0
+TATACUST1645,34,Male,Delhi,Nexon EV,1620000,2024-06-17,Social Media,2,Exchange Bonus,3,No,Low,Contacted,0.0
+TATACUST1646,34,Male,Pune,Curvv EV,1945000,2023-03-07,Google Search,8,Exchange Bonus,5,No,Low,Converted,1969823.33
+TATACUST1647,21,Female,Delhi,Tiago EV,1095000,2023-01-21,Dealership Visit,3,New Launch Blitz,16,Yes,High,Lost,0.0
+TATACUST1648,36,Female,Hyderabad,Punch EV,1260000,2024-09-03,Google Search,8,Festive Offer,7,Yes,Medium,Contacted,0.0
+TATACUST1649,34,Female,Chennai,Tiago EV,1075000,2024-01-19,Dealership Visit,4,Green Mobility Drive,7,Yes,Medium,Converted,1095928.19
+TATACUST1650,43,Male,Mumbai,Tiago EV,1130000,2024-09-06,TV Commercial,8,Exchange Bonus,11,No,Medium,Lost,0.0
+TATACUST1651,54,Male,Pune,Nexon EV,1760000,2024-07-12,Email Campaign,18,Exchange Bonus,6,No,Medium,Contacted,0.0
+TATACUST1652,47,Male,Bengaluru,Nexon EV,1820000,2023-02-08,Email Campaign,15,Festive Offer,5,No,Medium,Converted,1837675.38
+TATACUST1653,34,Male,Bengaluru,Tiago EV,1080000,2023-10-12,Social Media,17,Exchange Bonus,4,No,Medium,Lost,0.0
+TATACUST1654,26,Male,Jaipur,Punch EV,1480000,2024-08-24,Google Search,19,Referral Program,9,No,Medium,New,0.0
+TATACUST1655,61,Male,Chennai,Tiago EV,935000,2024-08-19,TV Commercial,4,Green Mobility Drive,8,Yes,Medium,Lost,0.0
+TATACUST1656,37,Male,Hyderabad,Curvv EV,1770000,2023-12-02,Social Media,3,Referral Program,6,Yes,Medium,Converted,1792633.96
+TATACUST1657,37,Female,Hyderabad,Harrier EV,2340000,2023-07-07,Google Search,9,Green Mobility Drive,6,Yes,Medium,Converted,2355667.17
+TATACUST1658,36,Female,Bengaluru,Tiago EV,1035000,2024-11-01,TV Commercial,16,New Launch Blitz,6,No,Medium,New,0.0
+TATACUST1659,38,Other,Kolkata,Punch EV,1300000,2023-08-31,Social Media,25,Green Mobility Drive,13,No,High,Converted,1338527.01
+TATACUST1660,35,Female,Hyderabad,Curvv EV,2085000,2023-03-14,TV Commercial,2,Exchange Bonus,8,Yes,Medium,Lost,0.0
+TATACUST1661,31,Female,Hyderabad,Curvv EV,1910000,2024-04-23,Dealership Visit,5,Festive Offer,9,Yes,High,New,0.0
+TATACUST1662,31,Male,Ahmedabad,Punch EV,1385000,2024-07-14,Social Media,4,Festive Offer,17,No,High,Converted,1415387.84
+TATACUST1663,36,Female,Delhi,Tiago EV,865000,2023-04-11,Google Search,12,Exchange Bonus,6,Yes,High,Converted,887149.13
+TATACUST1664,31,Female,Chennai,Tiago EV,1060000,2024-05-28,Social Media,9,Green Mobility Drive,9,Yes,High,Contacted,0.0
+TATACUST1665,30,Male,Delhi,Tigor EV,1320000,2023-06-25,Dealership Visit,5,Green Mobility Drive,7,No,Low,New,0.0
+TATACUST1666,38,Male,Delhi,Punch EV,1190000,2023-08-26,Social Media,8,Festive Offer,3,No,Low,Lost,0.0
+TATACUST1667,34,Female,Delhi,Tiago EV,900000,2023-02-28,Print Media,11,Referral Program,12,Yes,High,Converted,919793.02
+TATACUST1668,51,Male,Kochi,Nexon EV,1825000,2023-04-09,Google Search,13,Referral Program,2,No,Low,Converted,1855711.6
+TATACUST1669,21,Male,Ahmedabad,Tiago EV,970000,2024-05-09,Social Media,2,Festive Offer,2,No,Low,New,0.0
+TATACUST1670,47,Female,Hyderabad,Nexon EV,1555000,2024-05-28,Google Search,17,Exchange Bonus,19,Yes,High,Converted,1563687.87
+TATACUST1671,48,Male,Hyderabad,Punch EV,1535000,2023-10-24,Google Search,8,Referral Program,7,No,Medium,Converted,1575860.22
+TATACUST1672,21,Male,Pune,Tiago EV,1050000,2023-07-30,Google Search,15,Exchange Bonus,2,No,Low,Contacted,0.0
+TATACUST1673,33,Male,Jaipur,Nexon EV,1930000,2023-05-03,TV Commercial,14,Green Mobility Drive,5,No,Medium,New,0.0
+TATACUST1674,33,Male,Bengaluru,Punch EV,1290000,2023-08-17,TV Commercial,5,Exchange Bonus,10,No,Medium,New,0.0
+TATACUST1675,23,Male,Bengaluru,Harrier EV,2365000,2024-08-16,Social Media,5,Festive Offer,4,No,Low,Lost,0.0
+TATACUST1676,29,Female,Mumbai,Tigor EV,1360000,2024-10-17,Social Media,11,Green Mobility Drive,5,No,Medium,New,0.0
+TATACUST1677,26,Male,Chennai,Punch EV,1335000,2024-01-23,Dealership Visit,3,Festive Offer,8,Yes,Medium,Converted,1364501.4
+TATACUST1678,53,Male,Hyderabad,Nexon EV,1805000,2023-05-20,TV Commercial,14,Exchange Bonus,8,Yes,High,Converted,1830119.25
+TATACUST1679,45,Male,Bengaluru,Punch EV,1210000,2024-06-24,Google Search,12,Festive Offer,4,Yes,Medium,Contacted,0.0
+TATACUST1680,49,Female,Mumbai,Curvv EV,1950000,2024-01-26,Dealership Visit,16,New Launch Blitz,5,No,Medium,Lost,0.0
+TATACUST1681,43,Male,Ahmedabad,Punch EV,1155000,2023-09-27,Google Search,4,Green Mobility Drive,6,Yes,Medium,Converted,1175759.29
+TATACUST1682,26,Male,Mumbai,Tigor EV,1275000,2023-01-12,Dealership Visit,5,Festive Offer,9,Yes,High,Converted,1309497.13
+TATACUST1683,32,Female,Hyderabad,Tiago EV,800000,2024-01-24,Google Search,8,Green Mobility Drive,4,No,Low,New,0.0
+TATACUST1684,41,Female,Kochi,Punch EV,1115000,2023-12-03,Social Media,3,Festive Offer,15,No,Medium,Lost,0.0
+TATACUST1685,25,Male,Bengaluru,Curvv EV,2190000,2024-05-20,Email Campaign,9,Green Mobility Drive,8,No,Medium,Lost,0.0
+TATACUST1686,43,Female,Delhi,Nexon EV,1570000,2023-04-16,Google Search,15,Green Mobility Drive,15,Yes,High,Converted,1590714.95
+TATACUST1687,34,Male,Hyderabad,Punch EV,1395000,2023-02-01,Dealership Visit,5,Festive Offer,5,No,Low,Lost,0.0
+TATACUST1688,33,Male,Chennai,Punch EV,1475000,2023-03-15,Social Media,13,Festive Offer,3,No,Low,Lost,0.0
+TATACUST1689,43,Male,Pune,Nexon EV,1725000,2023-06-20,TV Commercial,6,Green Mobility Drive,3,Yes,Medium,Converted,1752278.55
+TATACUST1690,41,Male,Jaipur,Curvv EV,1820000,2023-03-10,Print Media,7,Festive Offer,8,No,Medium,Lost,0.0
+TATACUST1691,33,Female,Mumbai,Tiago EV,1055000,2023-12-28,Social Media,24,Referral Program,6,No,Medium,Contacted,0.0
+TATACUST1692,48,Male,Bengaluru,Punch EV,1370000,2024-10-10,Print Media,25,Exchange Bonus,6,No,Medium,New,0.0
+TATACUST1693,26,Male,Hyderabad,Punch EV,1430000,2024-03-08,TV Commercial,9,Exchange Bonus,2,No,Low,Contacted,0.0
+TATACUST1694,42,Female,Ahmedabad,Curvv EV,2095000,2023-04-10,TV Commercial,20,Green Mobility Drive,8,Yes,High,Converted,2105837.6
+TATACUST1695,42,Female,Mumbai,Tiago EV,1140000,2024-10-19,TV Commercial,8,Exchange Bonus,10,No,Medium,Contacted,0.0
+TATACUST1696,34,Male,Chennai,Tiago EV,1000000,2023-01-09,Print Media,5,New Launch Blitz,2,No,Low,Lost,0.0
+TATACUST1697,40,Female,Pune,Nexon EV,1620000,2024-07-27,Social Media,4,Festive Offer,5,Yes,Medium,Lost,0.0
+TATACUST1698,25,Male,Bengaluru,Tiago EV,1025000,2024-11-27,Social Media,19,Festive Offer,7,No,Medium,Lost,0.0
+TATACUST1699,45,Female,Mumbai,Punch EV,1130000,2023-01-29,Print Media,3,Festive Offer,2,Yes,Medium,Converted,1130127.03
+TATACUST1700,35,Female,Ahmedabad,Punch EV,1505000,2023-04-24,Dealership Visit,8,Festive Offer,8,No,Medium,Contacted,0.0
+TATACUST1701,32,Female,Mumbai,Punch EV,1155000,2024-04-06,Social Media,6,Festive Offer,9,No,Medium,Converted,1183620.38
+TATACUST1702,46,Male,Delhi,Punch EV,1245000,2023-05-23,Google Search,10,Exchange Bonus,9,Yes,High,Converted,1275016.98
+TATACUST1703,30,Male,Delhi,Tigor EV,1350000,2024-01-25,TV Commercial,7,Green Mobility Drive,6,No,Low,New,0.0
+TATACUST1704,23,Male,Ahmedabad,Tiago EV,1010000,2024-09-23,Google Search,4,New Launch Blitz,6,Yes,Medium,Contacted,0.0
+TATACUST1705,22,Male,Hyderabad,Tigor EV,1300000,2024-11-12,Google Search,3,Festive Offer,3,Yes,Medium,Converted,1335147.02
+TATACUST1706,42,Male,Chennai,Nexon EV,1685000,2023-06-06,Dealership Visit,9,Green Mobility Drive,9,No,Medium,Contacted,0.0
+TATACUST1707,24,Female,Delhi,Nexon EV,1875000,2023-12-01,Social Media,12,New Launch Blitz,14,Yes,High,Converted,1911849.72
+TATACUST1708,53,Male,Pune,Tiago EV,920000,2023-09-17,Dealership Visit,10,Referral Program,6,Yes,Medium,Converted,930860.03
+TATACUST1709,21,Male,Pune,Tiago EV,1105000,2023-03-23,Dealership Visit,13,Green Mobility Drive,6,Yes,High,Converted,1117099.27
+TATACUST1710,53,Female,Ahmedabad,Punch EV,1140000,2024-03-16,Google Search,4,Exchange Bonus,6,No,Low,Lost,0.0
+TATACUST1711,39,Male,Kolkata,Punch EV,1450000,2023-06-21,Google Search,15,Referral Program,17,Yes,High,Converted,1486561.01
+TATACUST1712,36,Female,Mumbai,Punch EV,1480000,2023-08-19,Google Search,8,Green Mobility Drive,8,Yes,High,Converted,1529715.04
+TATACUST1713,31,Male,Hyderabad,Nexon EV,1540000,2024-12-20,Google Search,2,Festive Offer,11,No,Medium,Lost,0.0
+TATACUST1714,40,Male,Mumbai,Tiago EV,950000,2023-03-16,Dealership Visit,5,Referral Program,11,Yes,High,Converted,951826.66
+TATACUST1715,36,Male,Pune,Tiago EV,855000,2023-09-27,Google Search,14,Green Mobility Drive,7,Yes,High,Converted,879509.72
+TATACUST1716,47,Male,Delhi,Punch EV,1415000,2024-09-17,TV Commercial,18,Festive Offer,4,No,Medium,New,0.0
+TATACUST1717,38,Female,Delhi,Nexon EV,1715000,2023-03-03,Google Search,6,Green Mobility Drive,6,Yes,Medium,Converted,1722956.0
+TATACUST1718,38,Male,Bengaluru,Tiago EV,1020000,2023-11-16,Google Search,12,Green Mobility Drive,6,Yes,High,Contacted,0.0
+TATACUST1719,33,Male,Pune,Nexon EV,1545000,2023-04-12,Social Media,2,Referral Program,8,No,Low,Lost,0.0
+TATACUST1720,36,Male,Delhi,Punch EV,1195000,2024-03-04,Social Media,4,Festive Offer,12,No,Medium,Converted,1200439.92
+TATACUST1721,39,Male,Hyderabad,Curvv EV,1770000,2024-12-22,Social Media,10,Referral Program,5,Yes,Medium,Converted,1783946.91
+TATACUST1722,21,Female,Bengaluru,Curvv EV,1895000,2023-09-12,Google Search,11,Green Mobility Drive,11,Yes,High,Converted,1914771.75
+TATACUST1723,24,Male,Mumbai,Punch EV,1350000,2024-06-15,Print Media,12,Green Mobility Drive,9,Yes,High,Lost,0.0
+TATACUST1724,44,Female,Chennai,Punch EV,1485000,2024-07-23,Dealership Visit,4,Festive Offer,10,Yes,High,Converted,1506604.16
+TATACUST1725,38,Female,Delhi,Punch EV,1400000,2023-04-22,Social Media,2,Exchange Bonus,4,Yes,Medium,Lost,0.0
+TATACUST1726,35,Male,Bengaluru,Punch EV,1295000,2023-11-09,Social Media,8,New Launch Blitz,7,Yes,Medium,Contacted,0.0
+TATACUST1727,37,Female,Hyderabad,Nexon EV,1925000,2024-04-05,Social Media,5,Green Mobility Drive,12,Yes,High,Converted,1946673.74
+TATACUST1728,40,Male,Delhi,Nexon EV,1810000,2024-12-08,Google Search,4,Festive Offer,4,No,Low,New,0.0
+TATACUST1729,31,Male,Mumbai,Nexon EV,1915000,2024-04-06,Google Search,5,Exchange Bonus,9,Yes,High,Converted,1950469.27
+TATACUST1730,29,Male,Bengaluru,Nexon EV,1715000,2023-04-02,Google Search,8,Referral Program,3,Yes,Medium,Converted,1749133.46
+TATACUST1731,38,Female,Jaipur,Punch EV,1215000,2023-02-21,Social Media,7,Festive Offer,4,No,Low,Contacted,0.0
+TATACUST1732,27,Other,Hyderabad,Tiago EV,815000,2024-06-03,Social Media,9,Exchange Bonus,5,Yes,Medium,Lost,0.0
+TATACUST1733,40,Male,Hyderabad,Nexon EV,1810000,2023-04-08,Social Media,3,Exchange Bonus,6,No,Low,Lost,0.0
+TATACUST1734,21,Female,Hyderabad,Punch EV,1155000,2023-08-24,Social Media,5,Green Mobility Drive,11,Yes,High,Lost,0.0
+TATACUST1735,46,Male,Delhi,Nexon EV,1600000,2024-01-09,Dealership Visit,9,Green Mobility Drive,8,Yes,High,Converted,1627460.58
+TATACUST1736,41,Male,Bengaluru,Punch EV,1340000,2024-08-03,Social Media,3,Festive Offer,10,Yes,High,Converted,1350998.48
+TATACUST1737,39,Male,Chennai,Tiago EV,995000,2024-07-10,Google Search,11,Referral Program,2,Yes,Medium,Contacted,0.0
+TATACUST1738,46,Other,Mumbai,Harrier EV,2410000,2024-10-10,TV Commercial,4,Exchange Bonus,6,No,Low,Lost,0.0
+TATACUST1739,52,Female,Delhi,Tiago EV,855000,2023-08-22,Print Media,8,Green Mobility Drive,7,No,Medium,Converted,883530.58
+TATACUST1740,46,Male,Delhi,Harrier EV,2330000,2023-02-01,Print Media,3,Green Mobility Drive,4,Yes,Medium,Contacted,0.0
+TATACUST1741,21,Male,Bengaluru,Harrier EV,2415000,2023-10-16,Dealership Visit,3,Festive Offer,4,No,Low,Lost,0.0
+TATACUST1742,24,Male,Kochi,Nexon EV,1935000,2024-09-29,Social Media,10,Referral Program,3,No,Low,New,0.0
+TATACUST1743,31,Male,Mumbai,Nexon EV,1815000,2024-08-01,TV Commercial,18,Green Mobility Drive,6,Yes,High,Converted,1835359.95
+TATACUST1744,37,Male,Pune,Tigor EV,1365000,2024-06-25,Dealership Visit,5,Green Mobility Drive,11,Yes,High,Converted,1376106.77
+TATACUST1745,41,Female,Mumbai,Curvv EV,2090000,2023-04-24,Social Media,8,Green Mobility Drive,25,No,High,New,0.0
+TATACUST1746,30,Male,Kochi,Punch EV,1365000,2023-07-23,TV Commercial,10,Green Mobility Drive,10,Yes,High,Converted,1374496.43
+TATACUST1747,38,Male,Mumbai,Punch EV,1185000,2023-01-29,Print Media,7,Festive Offer,9,No,Medium,New,0.0
+TATACUST1748,29,Male,Bengaluru,Nexon EV,1780000,2024-10-04,Google Search,14,Festive Offer,4,Yes,Medium,Lost,0.0
+TATACUST1749,31,Female,Hyderabad,Punch EV,1380000,2024-04-18,Social Media,3,Festive Offer,10,Yes,High,Converted,1406967.59
+TATACUST1750,23,Female,Hyderabad,Punch EV,1370000,2024-11-27,Social Media,21,Referral Program,2,No,Medium,New,0.0
+TATACUST1751,28,Male,Bengaluru,Punch EV,1320000,2023-09-10,Google Search,4,Festive Offer,9,No,Medium,Lost,0.0
+TATACUST1752,24,Female,Delhi,Tigor EV,1315000,2024-01-21,Social Media,5,Festive Offer,8,No,Medium,Contacted,0.0
+TATACUST1753,27,Male,Bengaluru,Curvv EV,1900000,2023-03-03,TV Commercial,16,Referral Program,9,No,Medium,Contacted,0.0
+TATACUST1754,47,Male,Delhi,Tiago EV,980000,2024-05-29,Dealership Visit,7,Festive Offer,13,Yes,High,Converted,1008915.79
+TATACUST1755,27,Male,Delhi,Curvv EV,1840000,2024-03-05,Social Media,6,Exchange Bonus,8,Yes,Medium,Converted,1861976.37
+TATACUST1756,62,Male,Bengaluru,Nexon EV,1850000,2024-08-02,Print Media,12,Green Mobility Drive,4,Yes,Medium,Converted,1860394.76
+TATACUST1757,41,Male,Delhi,Nexon EV,1540000,2024-06-20,Google Search,10,Festive Offer,8,Yes,High,Converted,1569933.77
+TATACUST1758,38,Female,Delhi,Tigor EV,1260000,2024-11-21,Social Media,3,Green Mobility Drive,3,No,Low,Converted,1268292.23
+TATACUST1759,28,Female,Hyderabad,Nexon EV,1665000,2023-05-21,Dealership Visit,11,Festive Offer,6,No,Medium,Contacted,0.0
+TATACUST1760,43,Female,Jaipur,Tiago EV,1030000,2023-10-27,Dealership Visit,5,Referral Program,3,No,Low,New,0.0
+TATACUST1761,31,Male,Pune,Nexon EV,1670000,2024-11-05,TV Commercial,15,Green Mobility Drive,4,No,Medium,Lost,0.0
+TATACUST1762,38,Male,Mumbai,Tiago EV,895000,2023-11-07,Print Media,25,Festive Offer,9,No,High,Lost,0.0
+TATACUST1763,61,Female,Mumbai,Curvv EV,2000000,2024-04-15,Dealership Visit,4,Festive Offer,11,No,Medium,Lost,0.0
+TATACUST1764,36,Male,Jaipur,Harrier EV,2320000,2024-01-28,Print Media,5,Green Mobility Drive,7,No,Low,Lost,0.0
+TATACUST1765,47,Male,Delhi,Punch EV,1520000,2024-10-03,Google Search,5,Festive Offer,4,Yes,Medium,New,0.0
+TATACUST1766,30,Male,Mumbai,Tiago EV,1120000,2024-03-20,Dealership Visit,3,Festive Offer,10,No,Medium,Converted,1153152.57
+TATACUST1767,36,Female,Pune,Nexon EV,1700000,2023-06-21,Email Campaign,20,Green Mobility Drive,9,No,High,Converted,1747108.67
+TATACUST1768,53,Male,Pune,Punch EV,1245000,2024-07-29,Dealership Visit,3,Referral Program,3,No,Low,Lost,0.0
+TATACUST1769,31,Male,Hyderabad,Curvv EV,2080000,2023-01-31,Social Media,5,Green Mobility Drive,4,No,Low,Contacted,0.0
+TATACUST1770,54,Female,Delhi,Tiago EV,810000,2023-02-16,Google Search,15,Exchange Bonus,8,Yes,High,Contacted,0.0
+TATACUST1771,43,Male,Mumbai,Tiago EV,965000,2023-05-10,TV Commercial,15,Referral Program,8,No,Medium,Converted,990541.18
+TATACUST1772,31,Male,Jaipur,Harrier EV,2315000,2023-12-18,Social Media,7,Festive Offer,7,Yes,Medium,Converted,2340179.04
+TATACUST1773,43,Male,Delhi,Nexon EV,1910000,2024-09-13,Email Campaign,9,Referral Program,7,No,Medium,Contacted,0.0
+TATACUST1774,46,Male,Hyderabad,Curvv EV,1755000,2024-08-03,Social Media,9,Referral Program,3,Yes,Medium,Converted,1761809.38
+TATACUST1775,42,Female,Hyderabad,Punch EV,1350000,2023-02-27,Social Media,24,Green Mobility Drive,7,No,High,Contacted,0.0
+TATACUST1776,22,Male,Pune,Nexon EV,1820000,2023-04-16,Print Media,7,New Launch Blitz,12,No,Medium,Lost,0.0
+TATACUST1777,30,Male,Delhi,Nexon EV,1690000,2023-11-26,Google Search,7,Festive Offer,7,Yes,Medium,Converted,1691955.26
+TATACUST1778,34,Female,Delhi,Nexon EV,1490000,2024-11-13,Social Media,5,Festive Offer,2,Yes,Medium,Converted,1507967.66
+TATACUST1779,36,Female,Pune,Nexon EV,1935000,2024-01-18,TV Commercial,4,Referral Program,8,No,Low,Lost,0.0
+TATACUST1780,42,Female,Ahmedabad,Tigor EV,1315000,2023-06-11,TV Commercial,8,Green Mobility Drive,13,No,Medium,New,0.0
+TATACUST1781,38,Male,Jaipur,Punch EV,1375000,2023-10-13,Social Media,18,Green Mobility Drive,7,Yes,High,Converted,1394854.03
+TATACUST1782,24,Male,Mumbai,Punch EV,1205000,2023-03-12,Email Campaign,16,Festive Offer,7,Yes,High,Converted,1216923.4
+TATACUST1783,40,Other,Mumbai,Nexon EV,1690000,2024-03-29,TV Commercial,25,Referral Program,14,No,High,New,0.0
+TATACUST1784,42,Female,Jaipur,Punch EV,1290000,2024-07-20,TV Commercial,8,Referral Program,12,No,Medium,Converted,1294728.82
+TATACUST1785,42,Male,Hyderabad,Nexon EV,1485000,2024-02-01,TV Commercial,12,Exchange Bonus,9,Yes,High,Converted,1525121.37
+TATACUST1786,47,Male,Ahmedabad,Punch EV,1145000,2024-05-29,TV Commercial,14,New Launch Blitz,11,No,Medium,Contacted,0.0
+TATACUST1787,44,Male,Delhi,Nexon EV,1870000,2023-01-26,Social Media,9,Green Mobility Drive,6,No,Medium,Converted,1904510.54
+TATACUST1788,41,Female,Pune,Nexon EV,1570000,2023-11-09,Google Search,5,Festive Offer,4,Yes,Medium,Converted,1603131.66
+TATACUST1789,36,Male,Hyderabad,Tiago EV,865000,2023-05-06,Google Search,7,Exchange Bonus,9,Yes,High,Converted,871761.01
+TATACUST1790,21,Male,Hyderabad,Tiago EV,975000,2024-02-12,Dealership Visit,16,Referral Program,1,Yes,Medium,Converted,1018202.0
+TATACUST1791,41,Male,Bengaluru,Tiago EV,1070000,2024-07-18,Social Media,7,Festive Offer,16,Yes,High,Converted,1092961.16
+TATACUST1792,38,Female,Mumbai,Nexon EV,1480000,2023-07-17,TV Commercial,19,Festive Offer,7,Yes,High,Converted,1488072.05
+TATACUST1793,39,Female,Pune,Curvv EV,2010000,2023-07-07,Dealership Visit,5,Referral Program,7,Yes,Medium,Converted,2041951.83
+TATACUST1794,24,Male,Delhi,Tiago EV,840000,2024-11-28,Social Media,13,New Launch Blitz,7,No,Medium,Contacted,0.0
+TATACUST1795,26,Female,Bengaluru,Nexon EV,1465000,2024-12-16,Social Media,10,Exchange Bonus,5,No,Low,Contacted,0.0
+TATACUST1796,47,Female,Jaipur,Punch EV,1125000,2024-04-28,Google Search,11,Festive Offer,11,Yes,High,Converted,1127424.83
+TATACUST1797,36,Male,Bengaluru,Punch EV,1475000,2024-03-25,TV Commercial,5,New Launch Blitz,7,Yes,Medium,Converted,1491193.12
+TATACUST1798,43,Male,Ahmedabad,Curvv EV,1800000,2024-06-06,Social Media,18,New Launch Blitz,7,No,Medium,Lost,0.0
+TATACUST1799,37,Male,Delhi,Punch EV,1120000,2023-12-20,Google Search,11,Green Mobility Drive,5,Yes,Medium,Converted,1147093.12
+TATACUST1800,37,Female,Hyderabad,Punch EV,1295000,2024-10-19,TV Commercial,6,Referral Program,2,No,Low,Lost,0.0
+TATACUST1801,45,Male,Kochi,Tiago EV,1095000,2024-08-19,TV Commercial,10,Referral Program,2,No,Low,Contacted,0.0
+TATACUST1802,32,Female,Mumbai,Tiago EV,890000,2023-04-10,Social Media,7,New Launch Blitz,6,No,Low,Lost,0.0
+TATACUST1803,37,Female,Mumbai,Punch EV,1290000,2024-09-07,Google Search,4,Referral Program,7,Yes,Medium,Converted,1321029.53
+TATACUST1804,32,Male,Bengaluru,Tiago EV,815000,2024-07-11,Dealership Visit,6,Exchange Bonus,2,No,Low,Converted,862385.34
+TATACUST1805,32,Female,Mumbai,Nexon EV,1675000,2024-07-09,Email Campaign,15,Exchange Bonus,1,Yes,Medium,Converted,1705151.37
+TATACUST1806,34,Male,Chennai,Punch EV,1360000,2023-10-05,Print Media,9,Green Mobility Drive,3,No,Low,Contacted,0.0
+TATACUST1807,39,Male,Kolkata,Tigor EV,1320000,2024-11-23,TV Commercial,9,Exchange Bonus,4,No,Low,New,0.0
+TATACUST1808,32,Female,Bengaluru,Tiago EV,915000,2024-11-29,Google Search,8,Referral Program,5,No,Low,Lost,0.0
+TATACUST1809,48,Female,Delhi,Punch EV,1240000,2024-09-17,Google Search,6,New Launch Blitz,10,Yes,High,Converted,1267673.62
+TATACUST1810,28,Male,Bengaluru,Nexon EV,1500000,2024-05-05,Social Media,24,Green Mobility Drive,3,No,Medium,Contacted,0.0
+TATACUST1811,35,Female,Hyderabad,Harrier EV,2330000,2023-09-12,Social Media,7,Exchange Bonus,10,Yes,High,Converted,2351959.21
+TATACUST1812,32,Female,Mumbai,Tiago EV,835000,2024-01-16,Dealership Visit,18,Green Mobility Drive,6,Yes,High,Converted,860547.23
+TATACUST1813,50,Male,Pune,Curvv EV,2095000,2024-06-25,Social Media,6,Exchange Bonus,11,No,Medium,Converted,2127194.02
+TATACUST1814,38,Other,Pune,Tigor EV,1370000,2023-09-21,Social Media,4,Exchange Bonus,15,No,Medium,New,0.0
+TATACUST1815,46,Male,Hyderabad,Tigor EV,1370000,2024-09-01,Email Campaign,14,Festive Offer,4,No,Medium,Contacted,0.0
+TATACUST1816,22,Male,Delhi,Tigor EV,1360000,2023-11-25,Social Media,11,Green Mobility Drive,1,No,Low,Contacted,0.0
+TATACUST1817,39,Male,Hyderabad,Tiago EV,1010000,2023-04-25,Social Media,3,Festive Offer,13,Yes,High,Converted,1020139.82
+TATACUST1818,45,Female,Mumbai,Tiago EV,1045000,2023-10-03,Social Media,4,Festive Offer,1,No,Low,Lost,0.0
+TATACUST1819,37,Female,Delhi,Nexon EV,1590000,2024-05-02,TV Commercial,14,Referral Program,2,No,Low,Contacted,0.0
+TATACUST1820,47,Male,Ahmedabad,Punch EV,1385000,2023-10-08,TV Commercial,7,Festive Offer,6,Yes,Medium,New,0.0
+TATACUST1821,32,Male,Hyderabad,Curvv EV,1955000,2023-10-02,Google Search,10,Green Mobility Drive,5,Yes,Medium,New,0.0
+TATACUST1822,50,Female,Mumbai,Punch EV,1315000,2024-12-19,TV Commercial,7,Festive Offer,5,No,Low,Converted,1342022.88
+TATACUST1823,58,Male,Delhi,Tiago EV,1065000,2023-11-24,Dealership Visit,6,Festive Offer,12,Yes,High,Converted,1095167.69
+TATACUST1824,33,Female,Delhi,Nexon EV,1590000,2023-07-30,Dealership Visit,25,Referral Program,7,No,High,Contacted,0.0
+TATACUST1825,32,Female,Delhi,Punch EV,1240000,2024-12-27,Email Campaign,6,Green Mobility Drive,10,No,Medium,Lost,0.0
+TATACUST1826,50,Male,Delhi,Tigor EV,1365000,2024-07-05,Print Media,8,New Launch Blitz,3,No,Low,New,0.0
+TATACUST1827,52,Female,Mumbai,Nexon EV,1475000,2023-01-26,TV Commercial,16,Green Mobility Drive,7,No,Medium,Converted,1489198.57
+TATACUST1828,32,Male,Bengaluru,Curvv EV,1970000,2023-01-27,Social Media,4,Festive Offer,9,Yes,Medium,Lost,0.0
+TATACUST1829,33,Other,Hyderabad,Nexon EV,1905000,2024-12-02,Social Media,8,Green Mobility Drive,6,Yes,Medium,Converted,1929073.67
+TATACUST1830,34,Female,Pune,Nexon EV,1755000,2023-03-24,Social Media,9,Exchange Bonus,6,Yes,Medium,Converted,1786222.92
+TATACUST1831,24,Female,Hyderabad,Nexon EV,1720000,2024-11-12,TV Commercial,6,Exchange Bonus,4,Yes,Medium,Lost,0.0
+TATACUST1832,28,Male,Mumbai,Harrier EV,2285000,2024-02-17,Dealership Visit,8,New Launch Blitz,6,No,Low,New,0.0
+TATACUST1833,27,Female,Jaipur,Punch EV,1255000,2023-06-16,Google Search,7,Exchange Bonus,7,No,Medium,Lost,0.0
+TATACUST1834,29,Male,Ahmedabad,Tiago EV,1095000,2024-11-30,Social Media,9,Green Mobility Drive,5,Yes,Medium,Contacted,0.0
+TATACUST1835,36,Male,Chennai,Punch EV,1350000,2023-06-18,TV Commercial,8,Referral Program,9,Yes,High,Lost,0.0
+TATACUST1836,39,Male,Chennai,Tiago EV,980000,2023-08-17,Email Campaign,8,New Launch Blitz,16,Yes,High,Converted,1018204.26
+TATACUST1837,51,Male,Jaipur,Nexon EV,1500000,2024-08-31,TV Commercial,3,Green Mobility Drive,3,No,Low,Lost,0.0
+TATACUST1838,27,Male,Pune,Nexon EV,1455000,2024-01-02,Dealership Visit,9,Festive Offer,8,Yes,High,Converted,1466446.49
+TATACUST1839,46,Female,Delhi,Nexon EV,1930000,2024-06-11,Dealership Visit,22,Exchange Bonus,5,Yes,High,Converted,1939570.71
+TATACUST1840,34,Female,Pune,Tiago EV,930000,2024-10-08,Email Campaign,6,Green Mobility Drive,6,No,Low,Contacted,0.0
+TATACUST1841,36,Male,Chennai,Nexon EV,1750000,2024-06-21,Dealership Visit,9,New Launch Blitz,6,Yes,Medium,Converted,1793347.27
+TATACUST1842,43,Female,Hyderabad,Punch EV,1135000,2024-06-07,Dealership Visit,8,Green Mobility Drive,11,No,Medium,Lost,0.0
+TATACUST1843,26,Male,Pune,Nexon EV,1790000,2023-03-13,Social Media,14,Festive Offer,12,Yes,High,Converted,1807782.37
+TATACUST1844,40,Female,Mumbai,Tigor EV,1365000,2024-10-06,Social Media,20,New Launch Blitz,14,No,High,Converted,1361944.21
+TATACUST1845,38,Female,Bengaluru,Punch EV,1360000,2023-04-16,Google Search,3,Referral Program,5,Yes,Medium,Converted,1374693.96
+TATACUST1846,41,Male,Kolkata,Tiago EV,845000,2024-11-19,Social Media,8,Festive Offer,3,Yes,Medium,Lost,0.0
+TATACUST1847,39,Female,Pune,Tiago EV,1005000,2023-10-09,Email Campaign,6,New Launch Blitz,8,No,Medium,Lost,0.0
+TATACUST1848,60,Male,Pune,Curvv EV,2095000,2023-05-13,Google Search,7,Green Mobility Drive,14,No,Medium,Lost,0.0
+TATACUST1849,30,Male,Delhi,Curvv EV,1930000,2024-06-17,Print Media,2,Green Mobility Drive,4,No,Low,Contacted,0.0
+TATACUST1850,31,Female,Bengaluru,Nexon EV,1890000,2023-09-26,Google Search,12,New Launch Blitz,3,Yes,Medium,Converted,1896166.82
+TATACUST1851,31,Male,Kolkata,Tiago EV,1025000,2024-02-16,Google Search,3,Green Mobility Drive,7,No,Low,New,0.0
+TATACUST1852,31,Male,Hyderabad,Punch EV,1505000,2024-11-03,Email Campaign,8,Festive Offer,17,Yes,High,Converted,1516992.2
+TATACUST1853,30,Male,Chennai,Nexon EV,1760000,2024-09-10,Google Search,11,Green Mobility Drive,9,Yes,High,Converted,1796059.18
+TATACUST1854,48,Female,Bengaluru,Nexon EV,1515000,2023-01-18,Google Search,4,Exchange Bonus,4,Yes,Medium,Converted,1538187.4
+TATACUST1855,50,Male,Hyderabad,Tiago EV,905000,2023-04-27,Social Media,18,Festive Offer,4,No,Medium,Lost,0.0
+TATACUST1856,31,Male,Delhi,Tiago EV,870000,2023-05-24,TV Commercial,13,Exchange Bonus,12,No,Medium,Lost,0.0
+TATACUST1857,29,Female,Hyderabad,Nexon EV,1905000,2024-12-17,Google Search,8,Exchange Bonus,8,Yes,High,Converted,1955713.68
+TATACUST1858,41,Female,Bengaluru,Punch EV,1440000,2024-07-04,TV Commercial,7,Green Mobility Drive,7,Yes,Medium,Lost,0.0
+TATACUST1859,31,Male,Bengaluru,Punch EV,1405000,2024-10-27,TV Commercial,6,Exchange Bonus,3,Yes,Medium,Converted,1446561.37
+TATACUST1860,43,Male,Hyderabad,Tiago EV,905000,2024-11-18,Dealership Visit,12,New Launch Blitz,3,Yes,Medium,Lost,0.0
+TATACUST1861,38,Male,Jaipur,Tigor EV,1270000,2024-02-26,Dealership Visit,4,Green Mobility Drive,8,Yes,Medium,Converted,1309869.05
+TATACUST1862,22,Male,Mumbai,Curvv EV,2090000,2024-01-04,Google Search,11,Green Mobility Drive,3,No,Low,Lost,0.0
+TATACUST1863,51,Male,Chennai,Harrier EV,2365000,2024-10-07,Google Search,15,Festive Offer,3,No,Medium,Contacted,0.0
+TATACUST1864,54,Female,Delhi,Tigor EV,1275000,2024-07-11,Print Media,6,Exchange Bonus,9,No,Medium,New,0.0
+TATACUST1865,31,Female,Bengaluru,Tigor EV,1325000,2023-02-19,Google Search,15,Referral Program,10,Yes,High,Converted,1327639.2
+TATACUST1866,33,Female,Mumbai,Tiago EV,815000,2024-11-08,Google Search,5,Green Mobility Drive,3,Yes,Medium,Converted,832177.71
+TATACUST1867,39,Male,Delhi,Tigor EV,1290000,2023-04-16,Google Search,19,Green Mobility Drive,9,Yes,High,Converted,1309020.14
+TATACUST1868,40,Female,Bengaluru,Punch EV,1310000,2023-08-04,Print Media,5,Green Mobility Drive,5,No,Low,Lost,0.0
+TATACUST1869,43,Male,Mumbai,Nexon EV,1525000,2024-10-19,Google Search,11,Exchange Bonus,9,Yes,High,Converted,1562986.68
+TATACUST1870,56,Other,Bengaluru,Punch EV,1540000,2024-02-29,Google Search,6,Festive Offer,8,No,Medium,New,0.0
+TATACUST1871,35,Female,Kolkata,Punch EV,1195000,2023-03-13,Dealership Visit,15,Referral Program,3,No,Medium,Lost,0.0
+TATACUST1872,29,Male,Mumbai,Tiago EV,845000,2024-03-21,TV Commercial,9,Festive Offer,10,Yes,High,Converted,866434.27
+TATACUST1873,23,Female,Chennai,Punch EV,1190000,2023-07-05,Social Media,2,Exchange Bonus,12,Yes,High,Converted,1235379.87
+TATACUST1874,30,Male,Bengaluru,Tiago EV,1070000,2023-03-11,Google Search,9,Green Mobility Drive,8,No,Medium,Converted,1073246.61
+TATACUST1875,36,Female,Hyderabad,Tiago EV,950000,2023-05-30,Dealership Visit,8,Exchange Bonus,3,No,Low,Lost,0.0
+TATACUST1876,54,Male,Delhi,Harrier EV,2395000,2023-09-03,Email Campaign,8,Festive Offer,7,Yes,Medium,Converted,2437964.41
+TATACUST1877,32,Male,Mumbai,Punch EV,1110000,2024-06-21,TV Commercial,18,Referral Program,1,Yes,Medium,Lost,0.0
+TATACUST1878,39,Female,Mumbai,Tigor EV,1255000,2024-10-13,Google Search,6,Festive Offer,2,No,Low,Contacted,0.0
+TATACUST1879,36,Male,Mumbai,Curvv EV,1950000,2023-04-09,Social Media,7,Festive Offer,7,No,Medium,Lost,0.0
+TATACUST1880,48,Female,Delhi,Harrier EV,2485000,2023-10-05,Print Media,5,Green Mobility Drive,4,Yes,Medium,Converted,2498226.29
+TATACUST1881,61,Male,Hyderabad,Nexon EV,1890000,2024-07-16,Dealership Visit,8,Exchange Bonus,7,Yes,Medium,New,0.0
+TATACUST1882,31,Female,Ahmedabad,Nexon EV,1490000,2024-10-24,Social Media,7,Festive Offer,6,Yes,Medium,Converted,1537780.47
+TATACUST1883,32,Female,Chennai,Punch EV,1340000,2024-03-30,Social Media,5,Festive Offer,2,No,Low,Contacted,0.0
+TATACUST1884,46,Male,Hyderabad,Punch EV,1510000,2023-04-14,Dealership Visit,5,Referral Program,4,Yes,Medium,Converted,1518366.09
+TATACUST1885,43,Male,Mumbai,Punch EV,1275000,2024-08-23,Google Search,6,Referral Program,2,No,Low,Contacted,0.0
+TATACUST1886,54,Male,Delhi,Nexon EV,1865000,2024-10-14,Google Search,25,Festive Offer,6,Yes,High,Converted,1893355.2
+TATACUST1887,42,Male,Delhi,Nexon EV,1515000,2024-12-25,Social Media,7,Exchange Bonus,7,Yes,Medium,Contacted,0.0
+TATACUST1888,33,Male,Delhi,Punch EV,1520000,2023-08-21,Social Media,9,Green Mobility Drive,9,No,Medium,Converted,1523352.97
+TATACUST1889,42,Female,Pune,Tiago EV,1060000,2024-01-29,Google Search,13,Exchange Bonus,1,Yes,Medium,New,0.0
+TATACUST1890,47,Female,Pune,Nexon EV,1920000,2024-05-15,Dealership Visit,10,Referral Program,9,Yes,High,Converted,1936447.33
+TATACUST1891,44,Female,Bengaluru,Tiago EV,1035000,2024-11-25,Google Search,4,Festive Offer,11,Yes,High,Converted,1046758.45
+TATACUST1892,41,Female,Bengaluru,Tigor EV,1295000,2023-09-08,Google Search,10,Referral Program,3,Yes,Medium,Converted,1314073.62
+TATACUST1893,47,Female,Chennai,Nexon EV,1920000,2024-06-04,Google Search,17,Green Mobility Drive,4,Yes,High,Converted,1951442.18
+TATACUST1894,48,Female,Chennai,Nexon EV,1585000,2023-03-20,Google Search,2,Exchange Bonus,5,No,Low,Contacted,0.0
+TATACUST1895,50,Male,Delhi,Nexon EV,1615000,2023-02-21,Social Media,5,Exchange Bonus,7,Yes,Medium,Converted,1625920.81
+TATACUST1896,43,Female,Kolkata,Curvv EV,2065000,2023-08-14,Google Search,5,New Launch Blitz,11,Yes,High,Converted,2083716.5
+TATACUST1897,35,Female,Jaipur,Punch EV,1445000,2023-02-20,Dealership Visit,6,Festive Offer,9,Yes,High,Converted,1462152.06
+TATACUST1898,38,Male,Delhi,Nexon EV,1915000,2023-07-05,Social Media,7,Festive Offer,8,No,Medium,Contacted,0.0
+TATACUST1899,48,Male,Bengaluru,Nexon EV,1550000,2023-02-03,Social Media,10,Festive Offer,10,No,Medium,New,0.0
+TATACUST1900,29,Male,Bengaluru,Tiago EV,1080000,2023-05-11,Social Media,5,New Launch Blitz,4,No,Low,Lost,0.0
+TATACUST1901,40,Male,Jaipur,Tiago EV,1055000,2024-09-23,TV Commercial,6,Exchange Bonus,4,Yes,Medium,Converted,1080874.85
+TATACUST1902,33,Female,Ahmedabad,Punch EV,1130000,2024-03-18,Print Media,10,Exchange Bonus,4,Yes,Medium,Contacted,0.0
+TATACUST1903,37,Male,Mumbai,Punch EV,1275000,2024-03-07,Social Media,9,Festive Offer,12,Yes,High,Lost,0.0
+TATACUST1904,49,Male,Bengaluru,Nexon EV,1590000,2024-12-04,Email Campaign,13,Referral Program,10,Yes,High,Converted,1634612.82
+TATACUST1905,38,Other,Pune,Curvv EV,1885000,2024-05-11,Social Media,7,Referral Program,4,No,Low,Lost,0.0
+TATACUST1906,37,Male,Bengaluru,Tiago EV,1145000,2024-02-07,Print Media,20,Exchange Bonus,7,No,Medium,Lost,0.0
+TATACUST1907,24,Male,Delhi,Tiago EV,1025000,2023-11-19,Google Search,6,Green Mobility Drive,7,Yes,Medium,Converted,1034536.95
+TATACUST1908,44,Male,Ahmedabad,Harrier EV,2450000,2023-07-29,TV Commercial,9,Festive Offer,6,No,Medium,Lost,0.0
+TATACUST1909,43,Female,Hyderabad,Tiago EV,1140000,2024-09-06,Google Search,15,Exchange Bonus,11,Yes,High,Converted,1157645.74
+TATACUST1910,57,Female,Ahmedabad,Punch EV,1270000,2023-11-25,Google Search,6,Exchange Bonus,5,Yes,Medium,Converted,1282835.67
+TATACUST1911,34,Male,Ahmedabad,Nexon EV,1850000,2024-01-07,Print Media,4,Festive Offer,2,No,Low,Lost,0.0
+TATACUST1912,39,Female,Chennai,Tigor EV,1305000,2024-04-04,Dealership Visit,11,Exchange Bonus,3,No,Low,Contacted,0.0
+TATACUST1913,39,Male,Bengaluru,Tiago EV,1105000,2023-05-13,Google Search,9,Festive Offer,3,No,Low,Converted,1119701.07
+TATACUST1914,51,Female,Pune,Tiago EV,860000,2024-10-12,Social Media,17,Referral Program,6,Yes,High,Converted,900116.86
+TATACUST1915,36,Female,Mumbai,Tiago EV,1130000,2023-05-01,Social Media,25,Green Mobility Drive,9,Yes,High,Converted,1149625.4
+TATACUST1916,39,Female,Hyderabad,Nexon EV,1560000,2024-08-28,Dealership Visit,6,Festive Offer,9,Yes,High,Converted,1562828.92
+TATACUST1917,42,Male,Mumbai,Tigor EV,1290000,2024-03-27,TV Commercial,7,Green Mobility Drive,5,No,Low,Lost,0.0
+TATACUST1918,38,Female,Hyderabad,Punch EV,1440000,2023-05-09,Google Search,5,Green Mobility Drive,5,Yes,Medium,Lost,0.0
+TATACUST1919,32,Female,Delhi,Nexon EV,1645000,2023-04-01,Dealership Visit,4,Festive Offer,5,Yes,Medium,Converted,1662185.79
+TATACUST1920,38,Male,Mumbai,Nexon EV,1755000,2024-08-26,Print Media,11,Referral Program,7,No,Medium,Lost,0.0
+TATACUST1921,47,Female,Mumbai,Tiago EV,955000,2024-07-28,TV Commercial,13,Festive Offer,6,No,Medium,Converted,981423.84
+TATACUST1922,27,Male,Mumbai,Punch EV,1435000,2023-01-29,Dealership Visit,6,Green Mobility Drive,2,No,Low,New,0.0
+TATACUST1923,38,Female,Hyderabad,Nexon EV,1565000,2024-12-22,Dealership Visit,3,Festive Offer,17,Yes,High,Converted,1585137.19
+TATACUST1924,30,Male,Hyderabad,Punch EV,1125000,2024-06-07,Google Search,4,Festive Offer,13,Yes,High,Converted,1153443.39
+TATACUST1925,48,Female,Pune,Punch EV,1235000,2023-11-29,Social Media,7,Festive Offer,10,Yes,High,Converted,1249046.62
+TATACUST1926,22,Male,Mumbai,Nexon EV,1685000,2023-10-24,Dealership Visit,13,Festive Offer,7,Yes,High,Converted,1705829.45
+TATACUST1927,31,Male,Mumbai,Curvv EV,1825000,2023-05-10,Google Search,2,Exchange Bonus,9,No,Low,Lost,0.0
+TATACUST1928,40,Male,Mumbai,Nexon EV,1625000,2023-10-20,Print Media,13,Festive Offer,5,No,Medium,Converted,1630147.45
+TATACUST1929,51,Male,Mumbai,Nexon EV,1650000,2023-06-22,Social Media,9,Exchange Bonus,10,No,Medium,Lost,0.0
+TATACUST1930,36,Male,Kolkata,Nexon EV,1480000,2024-12-20,Social Media,13,Festive Offer,10,No,Medium,Lost,0.0
+TATACUST1931,31,Male,Delhi,Punch EV,1360000,2023-01-24,Email Campaign,8,Festive Offer,6,Yes,Medium,New,0.0
+TATACUST1932,54,Female,Bengaluru,Nexon EV,1890000,2023-04-09,TV Commercial,10,Green Mobility Drive,10,No,Medium,Contacted,0.0
+TATACUST1933,23,Male,Mumbai,Punch EV,1165000,2024-02-10,Google Search,7,New Launch Blitz,5,No,Low,Lost,0.0
+TATACUST1934,21,Male,Delhi,Tiago EV,1010000,2023-12-22,Dealership Visit,14,Exchange Bonus,14,Yes,High,Converted,1016573.23
+TATACUST1935,41,Female,Pune,Nexon EV,1780000,2023-05-19,TV Commercial,6,Referral Program,4,Yes,Medium,Converted,1815895.18
+TATACUST1936,32,Male,Pune,Tigor EV,1300000,2024-05-17,TV Commercial,7,Festive Offer,7,No,Medium,Converted,1331052.32
+TATACUST1937,27,Female,Delhi,Punch EV,1415000,2023-06-23,Social Media,10,Referral Program,1,No,Low,Lost,0.0
+TATACUST1938,43,Female,Mumbai,Curvv EV,1935000,2023-01-29,Dealership Visit,5,Festive Offer,14,No,Medium,Converted,1951949.33
+TATACUST1939,39,Female,Bengaluru,Tiago EV,975000,2024-05-10,Print Media,5,Festive Offer,12,Yes,High,Converted,990885.14
+TATACUST1940,31,Female,Delhi,Punch EV,1100000,2024-10-16,Social Media,25,Exchange Bonus,10,No,High,Converted,1144499.01
+TATACUST1941,24,Female,Delhi,Tiago EV,1040000,2023-12-17,Print Media,4,Green Mobility Drive,7,No,Low,Contacted,0.0
+TATACUST1942,45,Male,Jaipur,Nexon EV,1780000,2024-07-07,Print Media,6,New Launch Blitz,5,Yes,Medium,Converted,1809935.51
+TATACUST1943,43,Male,Pune,Nexon EV,1470000,2023-10-26,TV Commercial,4,Festive Offer,3,No,Low,New,0.0
+TATACUST1944,36,Male,Pune,Punch EV,1265000,2024-12-20,TV Commercial,8,New Launch Blitz,6,Yes,Medium,Contacted,0.0
+TATACUST1945,54,Female,Bengaluru,Nexon EV,1940000,2023-07-11,Google Search,5,Exchange Bonus,1,No,Low,Lost,0.0
+TATACUST1946,26,Male,Bengaluru,Punch EV,1290000,2024-11-02,Google Search,11,Exchange Bonus,8,No,Medium,New,0.0
+TATACUST1947,22,Female,Pune,Nexon EV,1700000,2023-03-05,Dealership Visit,4,Festive Offer,8,Yes,Medium,Converted,1722661.55
+TATACUST1948,30,Other,Hyderabad,Punch EV,1510000,2024-10-25,Print Media,2,Festive Offer,6,No,Low,Contacted,0.0
+TATACUST1949,36,Female,Hyderabad,Punch EV,1420000,2023-08-03,TV Commercial,11,New Launch Blitz,6,Yes,High,Converted,1443160.7
+TATACUST1950,39,Male,Mumbai,Curvv EV,2010000,2023-06-15,Google Search,6,Green Mobility Drive,1,No,Low,Lost,0.0
+TATACUST1951,34,Male,Bengaluru,Punch EV,1460000,2024-06-26,Social Media,25,Exchange Bonus,10,No,High,Contacted,0.0
+TATACUST1952,40,Female,Bengaluru,Tiago EV,1100000,2023-08-20,Social Media,2,New Launch Blitz,4,No,Low,Contacted,0.0
+TATACUST1953,25,Female,Ahmedabad,Nexon EV,1675000,2024-06-24,Google Search,8,Festive Offer,5,No,Low,Lost,0.0
+TATACUST1954,50,Male,Hyderabad,Harrier EV,2365000,2023-07-14,Social Media,5,Exchange Bonus,3,No,Low,Converted,2378357.97
+TATACUST1955,36,Male,Pune,Punch EV,1275000,2024-05-20,TV Commercial,4,Exchange Bonus,5,Yes,Medium,Contacted,0.0
+TATACUST1956,47,Female,Mumbai,Tiago EV,1135000,2023-11-30,Google Search,25,Festive Offer,4,No,Medium,Contacted,0.0
+TATACUST1957,40,Female,Pune,Punch EV,1415000,2023-10-31,Dealership Visit,15,Festive Offer,8,Yes,High,Converted,1460896.37
+TATACUST1958,41,Female,Mumbai,Tigor EV,1260000,2024-03-12,Google Search,4,Green Mobility Drive,9,Yes,Medium,Converted,1290797.95
+TATACUST1959,42,Female,Delhi,Tiago EV,1100000,2023-11-19,TV Commercial,10,Green Mobility Drive,3,No,Low,Contacted,0.0
+TATACUST1960,41,Male,Mumbai,Nexon EV,1690000,2024-05-16,TV Commercial,8,Exchange Bonus,3,No,Low,Lost,0.0
+TATACUST1961,43,Male,Hyderabad,Harrier EV,2225000,2024-01-28,Social Media,4,Festive Offer,4,No,Low,Contacted,0.0
+TATACUST1962,49,Male,Delhi,Punch EV,1345000,2024-08-21,Social Media,4,New Launch Blitz,7,Yes,Medium,Lost,0.0
+TATACUST1963,38,Male,Bengaluru,Punch EV,1285000,2023-05-29,Google Search,17,Festive Offer,3,No,Medium,Contacted,0.0
+TATACUST1964,43,Male,Kolkata,Punch EV,1495000,2024-02-09,Print Media,25,Exchange Bonus,4,No,Medium,New,0.0
+TATACUST1965,36,Female,Delhi,Tiago EV,870000,2023-10-10,Social Media,25,Exchange Bonus,10,No,High,Lost,0.0
+TATACUST1966,50,Female,Bengaluru,Curvv EV,2120000,2023-12-28,Dealership Visit,12,Festive Offer,4,Yes,Medium,Converted,2141555.95
+TATACUST1967,30,Female,Bengaluru,Punch EV,1350000,2024-01-14,Email Campaign,8,Festive Offer,2,No,Low,Lost,0.0
+TATACUST1968,54,Male,Mumbai,Punch EV,1125000,2023-07-17,Dealership Visit,6,Referral Program,7,No,Low,Lost,0.0
+TATACUST1969,36,Female,Chennai,Nexon EV,1935000,2024-07-09,Social Media,5,New Launch Blitz,7,Yes,Medium,Lost,0.0
+TATACUST1970,23,Female,Mumbai,Punch EV,1330000,2023-12-22,Print Media,4,Festive Offer,4,No,Low,Lost,0.0
+TATACUST1971,38,Female,Bengaluru,Nexon EV,1595000,2024-06-23,Social Media,11,Green Mobility Drive,5,Yes,Medium,Lost,0.0
+TATACUST1972,30,Female,Pune,Tiago EV,965000,2024-03-04,Google Search,14,Green Mobility Drive,4,Yes,Medium,New,0.0
+TATACUST1973,44,Male,Pune,Nexon EV,1880000,2023-01-17,Print Media,14,Festive Offer,5,No,Medium,Contacted,0.0
+TATACUST1974,30,Male,Hyderabad,Harrier EV,2305000,2024-09-30,TV Commercial,18,Exchange Bonus,3,No,Medium,Converted,2316799.91
+TATACUST1975,32,Male,Delhi,Nexon EV,1545000,2024-01-14,Google Search,17,Referral Program,2,Yes,Medium,Converted,1574641.77
+TATACUST1976,21,Male,Mumbai,Harrier EV,2245000,2024-11-10,Google Search,25,Green Mobility Drive,7,Yes,High,Converted,2260622.63
+TATACUST1977,32,Male,Hyderabad,Tiago EV,905000,2024-05-20,Google Search,6,New Launch Blitz,11,No,Medium,Converted,938050.91
+TATACUST1978,21,Female,Pune,Punch EV,1450000,2023-03-17,Google Search,11,Festive Offer,7,No,Medium,Lost,0.0
+TATACUST1979,21,Female,Ahmedabad,Nexon EV,1685000,2023-08-19,Google Search,10,Exchange Bonus,3,No,Low,Lost,0.0
+TATACUST1980,44,Female,Chennai,Nexon EV,1565000,2024-12-16,Email Campaign,6,Green Mobility Drive,3,No,Low,Lost,0.0
+TATACUST1981,44,Female,Ahmedabad,Punch EV,1175000,2023-09-05,Email Campaign,25,Green Mobility Drive,10,No,High,Lost,0.0
+TATACUST1982,41,Male,Bengaluru,Punch EV,1250000,2023-10-29,Print Media,16,Green Mobility Drive,11,Yes,High,Converted,1303122.78
+TATACUST1983,27,Female,Delhi,Tiago EV,1130000,2024-12-26,Google Search,5,Festive Offer,6,No,Low,Lost,0.0
+TATACUST1984,36,Male,Chennai,Punch EV,1255000,2023-08-03,Dealership Visit,5,Exchange Bonus,3,Yes,Medium,Converted,1268836.12
+TATACUST1985,36,Male,Bengaluru,Tiago EV,1145000,2023-06-07,Print Media,11,Exchange Bonus,5,No,Medium,Converted,1152620.12
+TATACUST1986,25,Male,Delhi,Nexon EV,1690000,2023-03-10,Print Media,7,Festive Offer,5,No,Low,Converted,1712215.96
+TATACUST1987,51,Male,Ahmedabad,Tiago EV,860000,2024-01-28,Google Search,19,Referral Program,3,No,Medium,Contacted,0.0
+TATACUST1988,45,Male,Ahmedabad,Tiago EV,1110000,2023-03-26,Social Media,4,Green Mobility Drive,5,No,Low,Lost,0.0
+TATACUST1989,34,Male,Bengaluru,Tigor EV,1305000,2023-09-24,Social Media,3,Exchange Bonus,2,No,Low,Lost,0.0
+TATACUST1990,37,Male,Mumbai,Nexon EV,1805000,2023-03-10,TV Commercial,3,Festive Offer,7,No,Low,New,0.0
+TATACUST1991,38,Other,Bengaluru,Curvv EV,2190000,2024-09-02,TV Commercial,3,Festive Offer,5,No,Low,Lost,0.0
+TATACUST1992,21,Male,Chennai,Tigor EV,1255000,2023-12-13,Print Media,2,Green Mobility Drive,10,Yes,Medium,Converted,1265789.12
+TATACUST1993,34,Male,Kolkata,Punch EV,1145000,2024-12-28,Google Search,19,Exchange Bonus,15,No,High,Lost,0.0
+TATACUST1994,30,Male,Delhi,Nexon EV,1810000,2024-11-03,Social Media,6,Exchange Bonus,5,Yes,Medium,Converted,1841636.56
+TATACUST1995,27,Female,Mumbai,Tigor EV,1285000,2024-02-27,Google Search,5,Green Mobility Drive,9,Yes,High,Converted,1293546.56
+TATACUST1996,34,Male,Ahmedabad,Tiago EV,865000,2024-08-28,Google Search,3,Festive Offer,7,Yes,Medium,Converted,872549.11
+TATACUST1997,54,Male,Bengaluru,Tigor EV,1255000,2023-06-23,Social Media,3,Green Mobility Drive,4,No,Low,Lost,0.0
+TATACUST1998,43,Male,Pune,Curvv EV,1760000,2024-11-07,TV Commercial,12,Exchange Bonus,8,No,Medium,Lost,0.0
+TATACUST1999,31,Male,Jaipur,Punch EV,1450000,2023-04-25,Google Search,10,Exchange Bonus,10,Yes,High,Converted,1460394.31
+TATACUST2000,42,Male,Mumbai,Punch EV,1160000,2023-08-08,Dealership Visit,10,Festive Offer,1,Yes,Medium,New,0.0
